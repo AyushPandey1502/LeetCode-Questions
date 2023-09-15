@@ -2,8 +2,8 @@ class Solution {
 public:
     int finalValueAfterOperations(vector<string>& operations) {
         int X=0;
-        for(int i = 0; i < operations.size(); i++){
-            if(operations[i] == "X++" or operations[i] == "++X") X++;
+        for(string str : operations){
+            if(str == "X++" or str == "++X") X++;
             else X--;
         }
         return X;
