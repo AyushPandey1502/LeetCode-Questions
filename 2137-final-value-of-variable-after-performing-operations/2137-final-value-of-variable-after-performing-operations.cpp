@@ -1,10 +1,9 @@
 class Solution {
 public:
     int finalValueAfterOperations(vector<string>& operations) {
-        int X=0;
-        for(string str : operations){
-            if(str == "X++" or str == "++X") X++;
-            else X--;
+        int X = 0;
+        for (const string& str : operations) {
+            X += (str[1] == '+') ? 1 : -1;
         }
         return X;
     }
