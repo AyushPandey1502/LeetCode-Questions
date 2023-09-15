@@ -3,14 +3,10 @@
  */
 int* getConcatenation(int* nums, int numsSize, int* returnSize){
     int* result = (int*)malloc(2 * numsSize * sizeof(int));
-    for(int i = 0; i < 2 * numsSize; i++){
-        if(i < numsSize){
-            result[i] = nums[i];
-        }else{
-            result[i] = nums[i - numsSize];
-        }
-    }
-    
+    for(int i = 0; i < numsSize; i++){
+    result[i] = result[numsSize + i] = nums[i];}
     *returnSize = 2 * numsSize; 
     return result;
 }
+
+
