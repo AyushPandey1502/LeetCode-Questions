@@ -1,12 +1,14 @@
 class Solution {
     public boolean checkIfPangram(String sentence) {
-        int[] ascii = new int[256];
-        for(char c : sentence.toCharArray()){
-            ascii[c]++;
+        boolean[] letters  = new boolean[26];
+        
+        for(char c : sentence.toCharArray()) {
+            letters[c - 'a'] = true;
         }
-        for(int i = 97; i <= 122; i++){
-            if(ascii[i] == 0) return false;
+        for(boolean existLetter : letters) {
+            if(!existLetter) return false;
         }
+        
         return true;
     }
 }
