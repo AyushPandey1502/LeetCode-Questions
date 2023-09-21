@@ -1,34 +1,11 @@
 public class Solution {
-    public int numUniqueEmails(String[] emails) {
-        int count = 0;
-        String[] result = new String[emails.length];
-
+        public int numUniqueEmails(String[] emails) {
+        Set<String> normalized = new HashSet<>(); 
         for (String email : emails) {
-            int indexAt = email.indexOf("@");
-            int indexPlus = email.indexOf("+");
-
-            String localPart;
-            if (indexPlus != -1) {
-                localPart = email.substring(0, indexPlus);
-            } else {
-                localPart = email.substring(0, indexAt);
-            }
-            
-            String domain = email.substring(indexAt + 1);
-            String cleanedEmail = localPart.replace(".", "") + "@" + domain;
-
-            boolean flag = true;
-            for (String str : result) {
-                if (str != null && str.equals(cleanedEmail)) {
-                    flag = false;
-                    break;
-                }
-            }
-
-            if (flag) {
-                result[count++] = cleanedEmail;
-            }
+            String[] parts = email.split("@"); 
+            String[] local = parts[0].split("\\+"); 
+            normalized.add(local[0].replace(".", "") + "@" + parts[1]);        
         }
-        return count;
+        return normalized.size();
     }
 }
