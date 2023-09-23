@@ -7,10 +7,10 @@ public:
     int maxElement(vector<int>& nums, int low, int high) {
         if (low == high) return low;
         int mid = low + (high - low) / 2;
-        if (nums[mid] > nums[mid + 1]) {
-            return maxElement(nums, low, mid);
+        if (nums[mid] < nums[mid + 1]) {
+            return maxElement(nums, mid+1, high);
         } else {
-            return maxElement(nums, mid + 1, high);
+            return maxElement(nums, low, mid);
         }
     }
 };
