@@ -11,15 +11,14 @@ public:
             index2++;
 
             if (index1 == word1[i].size()) {
-                i++;
                 index1 = 0;
+                i++;
             }
             if (index2 == word2[j].size()) {
-                j++;
                 index2 = 0;
+                j++;
             }
         }
-
-        return (i == word1.size()) && (j == word2.size());
+        return i == word1.size() && j == word2.size();
     }
 };
