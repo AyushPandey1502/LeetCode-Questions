@@ -1,19 +1,20 @@
 class Solution {
 public:
     string sortVowels(string s) {
-        int n = s.size();
-        vector<char> vow;
-        vector<int> pos;
-        for(int i=0;i<n;i++){
-            if(s[i] == 'a' || s[i] == 'e' || s[i] == 'i' || s[i] =='o' || s[i] == 'u' || s[i] == 'A' || s[i] == 'E' || s[i] == 'O' || s[i] == 'I' || s[i] == 'U') { // condition to check for vowel
-                vow.push_back(s[i]);
-                pos.push_back(i); //storing positions of vowel 
-            }
+        vector<char> vowels = {'a','e','i','o','u','A','E','I','O','U'};
+        string answer = "";
+        vector<char> store;
+
+        for(char ch : s){
+            if(find(vowels.begin(), vowels.end(), ch) != vowels.end()) store.push_back(ch);
         }
-        sort(vow.begin(),vow.end());
-        string answer = s;
-        for(int i=0;i<pos.size();i++){
-            answer[pos[i]] = vow[i];
+        sort(store.begin(), store.end());
+
+        int index = 0;
+        for(char ch : s){
+            if(find(vowels.begin(), vowels.end(), ch) != vowels.end()){
+                answer += store[index++];
+            }else answer += ch;
         }
         return answer;
     }
