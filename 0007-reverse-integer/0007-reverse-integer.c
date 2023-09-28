@@ -4,11 +4,10 @@ int reverse(int x) {
     while (x != 0) {
         int lastDigit = x % 10;
         
-        // Check for overflow before updating the reversed integer
-        if (reversed > INT_MAX / 10 || (reversed == INT_MAX / 10 && lastDigit > 7)) {
+        if (reversed > INT_MAX / 10 ) {
             return 0;
         }
-        if (reversed < INT_MIN / 10 || (reversed == INT_MIN / 10 && lastDigit < -8)) {
+        if (reversed < INT_MIN / 10 ) {
             return 0;
         }
         
