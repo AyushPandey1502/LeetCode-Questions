@@ -6,10 +6,10 @@ public:
 	{
         if(A[i]%2==0)
 		{
-            swap(A[i],A[j]);
-            j++;
+            swap(A[i],A[j++]);
 		}
 	}
+
     return A;
 }
 };
