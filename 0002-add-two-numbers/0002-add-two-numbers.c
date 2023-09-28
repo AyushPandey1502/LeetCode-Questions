@@ -26,17 +26,15 @@ struct ListNode* addTwoNumbers(struct ListNode* l1, struct ListNode* l2) {
         
         carry = sum / 10;
         
-        struct ListNode* newNode = (struct ListNode*)malloc(sizeof(struct ListNode));
-        newNode->val = sum % 10;
-        newNode->next = NULL;
-        
-        if (!result) {
-            result = newNode;
-            current = result;
+        if (!current) {
+            result = current = (struct ListNode*)malloc(sizeof(struct ListNode));
         } else {
-            current->next = newNode;
+            current->next = (struct ListNode*)malloc(sizeof(struct ListNode));
             current = current->next;
         }
+        
+        current->val = sum % 10;
+        current->next = NULL;
     }
     
     return result;
