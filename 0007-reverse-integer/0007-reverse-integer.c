@@ -4,10 +4,10 @@ int reverse(int x) {
     while (x != 0) {
         int lastDigit = x % 10;
         
-        if (reversed > INT_MAX / 10 ) {
+        if (reversed > INT_MAX / 10 || (reversed == INT_MAX / 10 && lastDigit > 7)) {
             return 0;
         }
-        if (reversed < INT_MIN / 10 ) {
+        if (reversed < INT_MIN / 10 || (reversed == INT_MIN / 10 && lastDigit < -8)) {
             return 0;
         }
         
