@@ -7,10 +7,8 @@ public:
             hm[nums[i]] = i; 
         }
         for(int i =0;i<operations.size();i++){
-            int a  = operations[i][0];
-            int b = operations[i][1];
-            nums[hm[a]] = b;
-            hm[b] = hm[a]; 
+            nums[hm[operations[i][0]]] = operations[i][1];
+            hm[operations[i][1]] = hm[operations[i][0]]; 
         }
         return nums;
     }
