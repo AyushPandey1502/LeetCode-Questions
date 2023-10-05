@@ -1,3 +1,5 @@
+#include <vector>
+
 class Solution {
 public:
     vector<int> majorityElement(std::vector<int>& nums) {
@@ -7,7 +9,8 @@ public:
             return result;
         }
         
-        int count1 = 0, count2 = 0, candidate1 = 0, candidate2 = 1;
+        int candidate1 = 0, candidate2 = 1;
+        int count1 = 0, count2 = 0;
         
         for (int n : nums) {
             if (n == candidate1) {
@@ -25,11 +28,9 @@ public:
                 count2--;
             }
         }
-        
         count1 = 0;
         count2 = 0;
         
-        // Recount to confirm the majority elements
         for (int n : nums) {
             if (n == candidate1) {
                 count1++;
@@ -38,10 +39,12 @@ public:
             }
         }
         
-        if (count1 > nums.size() / 3) {
+        int n = nums.size();
+        
+        if (count1 > n / 3) {
             result.push_back(candidate1);
         }
-        if (count2 > nums.size() / 3) {
+        if (count2 > n / 3) {
             result.push_back(candidate2);
         }
         
