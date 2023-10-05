@@ -1,9 +1,9 @@
 class Solution {
 public:
-    int mostFrequentEven(std::vector<int>& nums) {
+    int mostFrequentEven(vector<int>& nums) {
         if (nums.empty()) return -1;
         
-        std::unordered_map<int, int> count_map;
+        unordered_map<int, int> count_map;
         int max_count = 0;
         int most_frequent_even = -1;
         
@@ -16,7 +16,6 @@ public:
                 }
             }
         }
-        
         return most_frequent_even;
     }
 };
