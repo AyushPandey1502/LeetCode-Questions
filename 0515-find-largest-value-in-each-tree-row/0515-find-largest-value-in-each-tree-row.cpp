@@ -1,27 +1,19 @@
+#pragma GCC optimize("O3")
 class Solution {
 public:
+    vector<int> arr;
+    void preOrder(TreeNode* Node,  int level){
+        if (Node== NULL) return;
+        if (arr.size()<=level) arr.push_back(INT_MIN);
+        arr[level]=max(arr[level], Node->val);
+
+        preOrder(Node->left, level+1);
+        preOrder(Node->right, level+1);     
+    }
+
     vector<int> largestValues(TreeNode* root) {
-        if(root==NULL) 
-			return {};
-        vector<int> res;
-        queue<TreeNode*> q;
-        q.push(root); 
-        while (!q.empty())
-        {
-            int size = q.size(); 
-            int maxi=INT_MIN;
-            for(int i=0;i<size;i++){
-                TreeNode* tmp=q.front();
-                if(tmp->left)
-                    q.push(tmp->left);
-                if(tmp->right)
-                    q.push(tmp->right);
-                if(maxi<tmp->val)
-                    maxi=tmp->val;
-                q.pop();
-            }
-            res.push_back(maxi);
-        }
-        return res;
+        if (root==NULL) return {};
+        preOrder(root, 0);
+        return arr;
     }
 };
