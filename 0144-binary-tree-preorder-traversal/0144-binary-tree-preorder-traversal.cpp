@@ -1,14 +1,16 @@
 class Solution {
 public:
-    void storePreOrder(TreeNode* root, vector<int> &result){
-        if(!root) return;
-        result.push_back(root->val);
-        storePreOrder(root->left, result);
-        storePreOrder(root->right, result);
+    vector<int> result;
+
+    void storePreorder(TreeNode* root){
+        if(root == nullptr) return;
+        result.push_back(root -> val);
+        storePreorder(root -> left);
+        storePreorder(root -> right);
     }
+
     vector<int> preorderTraversal(TreeNode* root) {
-        vector<int> result;
-        storePreOrder(root, result);
+        storePreorder(root);
         return result;
     }
 };
