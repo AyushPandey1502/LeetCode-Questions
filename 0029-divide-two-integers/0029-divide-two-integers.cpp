@@ -1,27 +1,33 @@
+// Time Complexity : O((logn)^2)
+// Space Complexity : O(1)
 class Solution {
 public:
     int divide(int dividend, int divisor) {
+        if (dividend == divisor)
+            return 1;
+        int sign = 1;
+        if (divisor > 0 && dividend <= 0)
+            sign = -1;
+        if (divisor < 0 && dividend >= 0)
+            sign = -1;
         if (dividend == INT_MIN && divisor == -1) {
             return INT_MAX;
         }
-        int sign = (dividend < 0) ^ (divisor < 0) ? -1 : 1;
-        long long ldividend = llabs(static_cast<long long>(dividend));
-        long long ldivisor = llabs(static_cast<long long>(divisor));
-
-        long long quotient = 0;
-        long long temp = 0;
-
-        for (int i = 31; i >= 0; i--) {
-            if ((temp + (ldivisor << i)) <= ldividend) {
-                temp += ldivisor << i;
-                quotient |= 1LL << i;
-            }
+        long result = 0;
+        long d = abs(divisor);
+        long n = abs(dividend);
+        while (n >= d) {
+            int count = 0;
+            while (n > (d * (static_cast<long long>(1) << count + 1)))
+                count++;
+            n -= (d << count);
+            result += 1 << count;
         }
-        if (sign == -1 && quotient > static_cast<long long>(INT_MAX)) {
+
+        if (result == (1 << 31) && (sign > 0))
+            return INT_MAX + 1;
+        if (result == (1 << 31) && (sign < 0))
             return INT_MIN;
-        } else if (sign == 1 && quotient > static_cast<long long>(INT_MAX) - 1) {
-            return INT_MAX;
-        }
-        return static_cast<int>(sign * quotient);
+        return sign * result;
     }
 };
