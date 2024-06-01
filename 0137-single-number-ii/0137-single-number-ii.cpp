@@ -1,16 +1,25 @@
-// Time Complexity : O(32 x n)
-// Space Complexity : O(1)
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        int result = 0;
-        for(int bit = 0; bit < 32; bit++){
-            int count = 0;
-            for(int i = 0; i < nums.size(); i++){
-                if(nums[i] & (1 << bit)) count++;
-            }
-            if(count % 3 == 1) result = result | (1 << bit);
+        if (nums.empty()) {
+            return -1; 
         }
-        return result;
+
+        sort(nums.begin(), nums.end());
+
+        if (nums.size() == 1 || nums[0] != nums[1]) {
+            return nums[0];
+        }
+
+        for (int i = 1; i < nums.size(); ++i) {
+            if (i == nums.size() - 1) {
+                if (nums[i] != nums[i - 1]) {
+                    return nums[i];
+                }
+            } else if (nums[i - 1] != nums[i] && nums[i] != nums[i + 1]) {
+                return nums[i];
+            }
+        }
+        return -1;
     }
 };
