@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [2574-count-subarrays-with-median-k](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2574-count-subarrays-with-median-k) |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 # Greedy
 |  |
@@ -48,3 +49,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
+# Hash Table
+|  |
+| ------- |
+| [2574-count-subarrays-with-median-k](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2574-count-subarrays-with-median-k) |
+# Prefix Sum
+|  |
+| ------- |
+| [2574-count-subarrays-with-median-k](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2574-count-subarrays-with-median-k) |
