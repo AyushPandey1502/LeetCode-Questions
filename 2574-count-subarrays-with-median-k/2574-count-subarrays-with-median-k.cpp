@@ -1,3 +1,4 @@
+// Similar to Prefix Sum Method 
 class Solution {
 public:
     int countSubarrays(vector<int>& nums, int k) {
