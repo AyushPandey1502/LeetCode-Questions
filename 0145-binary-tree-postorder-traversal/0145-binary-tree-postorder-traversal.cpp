@@ -1,3 +1,6 @@
+// TWO STACK APPROACH
+// TIME COMPLEXITY : O(N)
+// SPACE COMPLEXITY : O(2N)
 class Solution {
 public:
     vector<int> postorderTraversal(TreeNode* root) {
