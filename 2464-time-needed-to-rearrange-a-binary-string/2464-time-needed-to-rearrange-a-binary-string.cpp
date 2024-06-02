@@ -1,21 +1,20 @@
 class Solution {
 public:
     int secondsToRemoveOccurrences(string s) {
-        bool found;
         int count = 0;
-        do {
-            found = false;
+        while (true) {
+            bool found = false;
             for (int i = 0; i < s.size() - 1; i++) {
-                if (s[i] == '0' && s[i + 1] == '1') {
+                if (s[i] == '0' && s[i+1] == '1') {
                     s[i] = '1';
-                    s[i + 1] = '0';
-                    i++;
+                    s[i+1] = '0';
+                    i++; 
                     found = true;
                 }
             }
-            if (found)
-                count++;
-        } while (found);
+            if (!found) break;
+            count++;
+        }
         return count;
     }
 };
