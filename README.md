@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0344-reverse-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0344-reverse-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 # Tree
 |  |
 | ------- |
@@ -62,3 +63,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+# Dynamic Programming
+|  |
+| ------- |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
+# Simulation
+|  |
+| ------- |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
