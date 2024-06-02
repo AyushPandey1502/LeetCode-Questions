@@ -1,25 +1,25 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
+// ITERATIVE APPROACH : STACK
+// TIME COMPLEXITY : O(N)
+// AUXILIARY SPACE COMPLEXITY : O(N) ~ O(HT OF BINARY TREE)
 class Solution {
 public:
-    void storeInorder(TreeNode* root, vector<int> &result){
-        if(root == NULL) return;
-        storeInorder(root->left, result);
-        result.push_back(root->val);
-        storeInorder(root->right, result);
-    }
     vector<int> inorderTraversal(TreeNode* root) {
-        vector<int> result;
-        storeInorder(root, result);
-        return result;
+        vector<int> inorder;
+        if(root == NULL) return inorder;
+        stack<TreeNode*> stack;
+        TreeNode* node = root;
+        while(true){
+            if(node != NULL){
+                stack.push(node);
+                node = node -> left;
+            }else{
+                if(stack.empty()) break;
+                node = stack.top();
+                stack.pop();
+                inorder.push_back(node -> val);
+                node = node -> right;
+            }
+        }
+        return inorder;
     }
 };
