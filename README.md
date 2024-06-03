@@ -50,12 +50,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [1832-minimum-operations-to-make-a-subsequence](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [2465-shifting-letters-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2465-shifting-letters-ii) |
 | [2574-count-subarrays-with-median-k](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2574-count-subarrays-with-median-k) |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 # Greedy
 |  |
 | ------- |
+| [1832-minimum-operations-to-make-a-subsequence](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 # Sorting
@@ -65,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Hash Table
 |  |
 | ------- |
+| [1832-minimum-operations-to-make-a-subsequence](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [2574-count-subarrays-with-median-k](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2574-count-subarrays-with-median-k) |
 # Prefix Sum
 |  |
@@ -84,3 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
+# Binary Search
+|  |
+| ------- |
+| [1832-minimum-operations-to-make-a-subsequence](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1832-minimum-operations-to-make-a-subsequence) |
