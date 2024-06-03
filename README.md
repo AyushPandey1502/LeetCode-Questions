@@ -6,11 +6,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2465-shifting-letters-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2465-shifting-letters-ii) |
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 # Simulation
 |  |
