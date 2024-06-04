@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0008-string-to-integer-atoi) |
 | [0344-reverse-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0409-longest-palindrome) |
