@@ -2,12 +2,12 @@ class Solution {
 public:
     int longestPalindrome(string s) {
         unordered_map<char, int> map;
+        int n = s.length();
         for(auto ch : s) map[ch]++;
-        int ones = 0, twos = 0;
+        int oddFreq = 0;
         for(auto it : map){
-            twos += it.second / 2;
-            ones += it.second % 2;
+            if(it.second % 2 == 1) oddFreq++;
         }
-        return ones > 1 ? 2*twos + 1 : 2*twos + ones;
+        return oddFreq > 0 ? n - oddFreq + 1 : n;
     }
 };
