@@ -1,6 +1,3 @@
-// TIME COMPLXITY : O(N)
-// SPACE COMPLEXITY : O(N)
-
 class Solution {
 public:
     int diameterOfBinaryTree(TreeNode* root) {
@@ -9,11 +6,16 @@ public:
         return diameter;
     }
 
-    int calculateDiameter(TreeNode* root, int &diameter){
-        if(root == NULL) return 0;
-        int lh = calculateDiameter(root -> left, diameter);
-        int rh = calculateDiameter(root -> right, diameter);
-        diameter = max(diameter, lh + rh);
-        return 1 + max(lh, rh);
+private:
+    int calculateDiameter(TreeNode* node, int& diameter) {
+        if (!node) {
+            return 0;
+        }
+
+        int leftHeight = calculateDiameter(node->left, diameter);
+        int rightHeight = calculateDiameter(node->right, diameter);
+
+        diameter = max(diameter, leftHeight + rightHeight);
+        return 1 + max(leftHeight, rightHeight);
     }
 };
