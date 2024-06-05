@@ -1,24 +1,35 @@
-// TWO STACK APPROACH
-// TIME COMPLEXITY : O(N)
-// SPACE COMPLEXITY : O(2N)
+// ONE STACK APPROACH
+// TIME COMPLEXITY : O(2N)
+// SPACE COMPLEXITY : O(N)
 class Solution {
 public:
     vector<int> postorderTraversal(TreeNode* root) {
-        if(root == nullptr) return {};
-        stack<TreeNode*> st1, st2;
-        st1.push(root);
-        while(!st1.empty()){
-            TreeNode* node = st1.top();
-            st1.pop();
-            st2.push(node);
-            if(node->left) st1.push(node->left);
-            if(node->right) st1.push(node->right);
+        vector<int> postorder;
+        if (root == nullptr) return postorder;
+        
+        stack<TreeNode*> st;
+        TreeNode* current = root;
+        
+        while (current != NULL || !st.empty()) {
+            if (current != NULL) {
+                st.push(current);
+                current = current->left;
+            } else {
+                TreeNode* temp = st.top()->right;
+                if (temp == NULL) {
+                    temp = st.top();
+                    st.pop();
+                    postorder.push_back(temp->val);
+                    while (!st.empty() && temp == st.top()->right) {
+                        temp = st.top();
+                        st.pop();
+                        postorder.push_back(temp->val);
+                    }
+                } else {
+                    current = temp;
+                }
+            }
         }
-        vector<int> result;
-        while(!st2.empty()) {
-            result.push_back(st2.top()->val);
-            st2.pop();
-        }
-        return result;
+        return postorder;
     }
 };
