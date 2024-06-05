@@ -1,3 +1,6 @@
+// TIME COMPLXITY : O(N)
+// SPACE COMPLEXITY : O(N)
+
 class Solution {
 public:
     int diameterOfBinaryTree(TreeNode* root) {
