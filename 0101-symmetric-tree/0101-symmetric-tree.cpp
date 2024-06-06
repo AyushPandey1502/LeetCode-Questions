@@ -1,12 +1,12 @@
 class Solution {
 public:
-    bool isMirror(TreeNode* left, TreeNode* right) {
-        if (!left && !right) return true;
-        if (!left || !right) return false;
-        return (left->val == right->val) && isMirror(left->left, right->right) && isMirror(left->right, right->left);
-    }
     bool isSymmetric(TreeNode* root) {
-        if (!root) return true;
-        return isMirror(root->left, root->right);
+        if(root == NULL) return true;
+        return checkSymmetric(root-> left, root->right);
+    }
+
+    bool checkSymmetric(TreeNode* p, TreeNode* q){
+        if(p == NULL || q == NULL) return p == q;
+        return p->val == q->val && checkSymmetric(p->left, q->right) && checkSymmetric(p->right, q->left);
     }
 };
