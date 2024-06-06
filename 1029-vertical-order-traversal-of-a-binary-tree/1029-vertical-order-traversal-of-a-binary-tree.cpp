@@ -1,16 +1,16 @@
 // TIME COMPLEXITY : O(N*LOG(N))
 // SPACE COMPLEXITY : O(N)
-// LEVEL ORDER TRAVERSAL
+// PREORDER TRAVERSAL
 
 class Solution {
 public:
     vector<vector<int>> verticalTraversal(TreeNode* root) {
         map<int, map<int, multiset<int>>> nodes;
-        queue<pair<TreeNode*, pair<int, int>>> todo;
+        stack<pair<TreeNode*, pair<int, int>>> todo;
         todo.push({root, {0, 0}});
 
         while(!todo.empty()){
-            auto p = todo.front();
+            auto p = todo.top();
             todo.pop();
             TreeNode* node = p.first;
             int x = p.second.first;
@@ -18,11 +18,11 @@ public:
 
             nodes[x][y].insert(node -> val);
 
-            if(node -> left){
-                todo.push({node -> left, {x - 1, y + 1}});
-            }
             if(node -> right){
                 todo.push({node -> right, {x + 1, y + 1}});
+            }
+            if(node -> left){
+                todo.push({node -> left, {x - 1, y + 1}});
             }
         }
 
