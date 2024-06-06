@@ -12,8 +12,6 @@ public:
             return false;
         if (p->val != q->val)
             return false;
-        bool leftCheck = checkTrees(p->left, q->left);
-        bool rightCheck = checkTrees(p->right, q->right);
-        return leftCheck && rightCheck;
+        return checkTrees(p->left, q->left) && checkTrees(p->right, q->right);
     }
 };
