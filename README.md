@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0876-hand-of-straights](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1044-find-common-characters) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0409-longest-palindrome) |
+| [0876-hand-of-straights](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0876-hand-of-straights) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -82,11 +84,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Sorting
 |  |
 | ------- |
+| [0876-hand-of-straights](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0876-hand-of-straights) |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 # Hash Table
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0409-longest-palindrome) |
+| [0876-hand-of-straights](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1044-find-common-characters) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
