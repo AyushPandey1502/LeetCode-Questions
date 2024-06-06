@@ -1,35 +1,23 @@
 // TIME COMPLEXITY : O(N*LOG(N))
 // SPACE COMPLEXITY : O(N)
-// PREORDER TRAVERSAL
+// INORDER TRAVERSAL
 
 class Solution {
 public:
+    void inorderTraversal(TreeNode* node, int x, int y, map<int, map<int, multiset<int>>>& nodes) {
+        if (!node) return;
+        inorderTraversal(node->left, x - 1, y + 1, nodes);
+        nodes[x][y].insert(node->val);
+        inorderTraversal(node->right, x + 1, y + 1, nodes);
+    }
+
     vector<vector<int>> verticalTraversal(TreeNode* root) {
         map<int, map<int, multiset<int>>> nodes;
-        stack<pair<TreeNode*, pair<int, int>>> todo;
-        todo.push({root, {0, 0}});
-
-        while(!todo.empty()){
-            auto p = todo.top();
-            todo.pop();
-            TreeNode* node = p.first;
-            int x = p.second.first;
-            int y = p.second.second;
-
-            nodes[x][y].insert(node -> val);
-
-            if(node -> right){
-                todo.push({node -> right, {x + 1, y + 1}});
-            }
-            if(node -> left){
-                todo.push({node -> left, {x - 1, y + 1}});
-            }
-        }
-
+        inorderTraversal(root, 0, 0, nodes);
         vector<vector<int>> result;
-        for(auto p : nodes){
+        for (const auto& p : nodes) {
             vector<int> col;
-            for(auto q : p.second){
+            for (const auto& q : p.second) {
                 col.insert(col.end(), q.second.begin(), q.second.end());
             }
             result.push_back(col);
