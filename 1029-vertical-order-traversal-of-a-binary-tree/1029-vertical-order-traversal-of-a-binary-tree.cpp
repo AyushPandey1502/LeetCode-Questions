@@ -1,29 +1,41 @@
-// TIME COMPLEXITY : O(N*LOG(N))
-// SPACE COMPLEXITY : O(N)
-// POSTORDER TRAVERSAL
-
+// INORDER TRAVERSAL
 class Solution {
 public:
-    map<int, map<int, multiset<int>>> nodes;
-
-    void postorderTraversal(TreeNode* root, int x, int y){
-        if(root == NULL) return;
-        postorderTraversal(root -> left, x - 1, y + 1);
-        postorderTraversal(root -> right, x + 1, y + 1);
-        nodes[x][y].insert(root -> val);
-    }
-    
-
     vector<vector<int>> verticalTraversal(TreeNode* root) {
-        postorderTraversal(root, 0, 0);
+        if (root == NULL) return {};
+        map<int, map<int, multiset<int>>> nodes;
+        stack<pair<TreeNode*, pair<int, int>>> stk;
+        TreeNode* current = root;
+        int x = 0;
+        int y = 0;
+
+        while (current != NULL || !stk.empty()) {
+            while (current != NULL) {
+                stk.push({current, {x, y}});
+                current = current->left;
+                x--;
+                y++;
+            }
+            auto p = stk.top();
+            stk.pop();
+            current = p.first;
+            x = p.second.first;
+            y = p.second.second;
+            nodes[x][y].insert(current->val);
+            current = current->right;
+            x++;
+            y++;
+        }
+
         vector<vector<int>> result;
-        for(auto p : nodes){
+        for (auto& p : nodes) {
             vector<int> col;
-            for(auto q : p.second){
+            for (auto& q : p.second) {
                 col.insert(col.end(), q.second.begin(), q.second.end());
             }
             result.push_back(col);
         }
+
         return result;
     }
 };
