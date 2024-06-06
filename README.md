@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0876-hand-of-straights](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1044-find-common-characters) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0409-longest-palindrome](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0409-longest-palindrome) |
 | [0876-hand-of-straights](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0876-hand-of-straights) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -85,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0876-hand-of-straights](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0876-hand-of-straights) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 # Hash Table
 |  |
@@ -92,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0409-longest-palindrome) |
 | [0876-hand-of-straights](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1044-find-common-characters) |
+| [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2574-count-subarrays-with-median-k](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2574-count-subarrays-with-median-k) |
