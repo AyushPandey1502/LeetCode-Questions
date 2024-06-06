@@ -1,23 +1,26 @@
 class Solution {
 public:
     vector<vector<int>> result;
-    void getPaths(TreeNode* root, vector<int> arr, int targetSum) {
+
+    void getPaths(TreeNode* root, vector<int>& path, int targetSum) {
         if (root == NULL)
             return;
-        arr.push_back(root->val);
+
+        path.push_back(root->val);
         targetSum -= root->val;
+
         if (root->left == NULL && root->right == NULL && targetSum == 0) {
-            result.push_back(arr);
-            return;
+            result.push_back(path);
+        } else {
+            getPaths(root->left, path, targetSum);
+            getPaths(root->right, path, targetSum);
         }
-        getPaths(root->left, arr, targetSum);
-        getPaths(root->right, arr, targetSum);
+        path.pop_back();
     }
+
     vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
-        if (root == NULL)
-            return result;
-        vector<int> arr;
-        getPaths(root, arr, targetSum);
+        vector<int> path;
+        getPaths(root, path, targetSum);
         return result;
     }
 };
