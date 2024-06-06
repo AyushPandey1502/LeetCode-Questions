@@ -1,17 +1,10 @@
+// TIME COMPLEXITY : O(N)
+// SPACE COMPLEXITY : O(N)
 class Solution {
 public:
     bool isSameTree(TreeNode* p, TreeNode* q) {
-        bool result = checkTrees(p, q);
-        return result;
-    }
-
-    bool checkTrees(TreeNode* p, TreeNode* q) {
-        if (p == NULL && q == NULL)
-            return true;
-        if ((p == NULL && q != NULL) || (p != NULL && q == NULL))
-            return false;
-        if (p->val != q->val)
-            return false;
-        return checkTrees(p->left, q->left) && checkTrees(p->right, q->right);
+        if (p == NULL || q == NULL)
+            return p == q;
+        return p->val == q->val && isSameTree(p->left, q->left) && isSameTree(p->right, q->right);
     }
 };
