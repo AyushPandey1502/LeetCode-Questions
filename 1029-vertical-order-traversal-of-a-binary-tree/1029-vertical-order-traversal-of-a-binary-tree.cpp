@@ -4,20 +4,22 @@
 
 class Solution {
 public:
-    void inorderTraversal(TreeNode* node, int x, int y, map<int, map<int, multiset<int>>>& nodes) {
-        if (!node) return;
-        inorderTraversal(node->left, x - 1, y + 1, nodes);
-        nodes[x][y].insert(node->val);
-        inorderTraversal(node->right, x + 1, y + 1, nodes);
+    map<int, map<int, multiset<int>>> nodes;
+
+    void inorderTraversal(TreeNode* root, int x, int y){
+        if(root == NULL) return;
+        inorderTraversal(root -> left, x - 1, y + 1);
+        nodes[x][y].insert(root -> val);
+        inorderTraversal(root -> right, x + 1, y + 1);
     }
+    
 
     vector<vector<int>> verticalTraversal(TreeNode* root) {
-        map<int, map<int, multiset<int>>> nodes;
-        inorderTraversal(root, 0, 0, nodes);
+        inorderTraversal(root, 0, 0);
         vector<vector<int>> result;
-        for (const auto& p : nodes) {
+        for(auto p : nodes){
             vector<int> col;
-            for (const auto& q : p.second) {
+            for(auto q : p.second){
                 col.insert(col.end(), q.second.begin(), q.second.end());
             }
             result.push_back(col);
