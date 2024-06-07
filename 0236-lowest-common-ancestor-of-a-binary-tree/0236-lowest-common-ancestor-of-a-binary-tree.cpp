@@ -1,13 +1,23 @@
-// TIME COMPLEXITY : O(N)
-// AUXILIARY SPACE : O(N)
+// BRUTE FORCE APPROACH
 class Solution {
 public:
+    bool getPath(TreeNode* root, TreeNode* p, vector<TreeNode*> &arr){
+        if(root == NULL) return false;
+        arr.push_back(root);
+        if(root == p) return true;
+        if(getPath(root->left, p, arr) || getPath(root->right, p, arr)) return true;
+        arr.pop_back();
+        return false;
+    }
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        if(root == NULL || root == p || root == q) return root;
-        TreeNode* left = lowestCommonAncestor(root->left, p, q);
-        TreeNode* right = lowestCommonAncestor(root->right, p, q);
-        if(left == NULL) return right;
-        else if(right == NULL) return left;
-        else return root;
+        vector<TreeNode*> path1, path2;
+        getPath(root, p, path1);
+        getPath(root, q, path2);
+        int i = 0;
+        while(i < path1.size() && i < path2.size()){
+            if(path1[i] != path2[i]) return path1[i-1];
+            i++;
+        }
+        return path1[i-1];
     }
 };
