@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0409-longest-palindrome) |
+| [0648-replace-words](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0648-replace-words) |
 | [1044-find-common-characters](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1044-find-common-characters) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0648-replace-words](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1044-find-common-characters) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -123,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0409-longest-palindrome) |
+| [0648-replace-words](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0876-hand-of-straights) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1044-find-common-characters](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1044-find-common-characters) |
@@ -162,3 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0113-path-sum-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0257-binary-tree-paths) |
+# Trie
+|  |
+| ------- |
+| [0648-replace-words](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0648-replace-words) |
