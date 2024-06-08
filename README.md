@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1044-find-common-characters) |
@@ -139,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0409-longest-palindrome) |
+| [0523-continuous-subarray-sum](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0876-hand-of-straights) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -150,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [2465-shifting-letters-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2465-shifting-letters-ii) |
 | [2574-count-subarrays-with-median-k](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2574-count-subarrays-with-median-k) |
 # Sliding Window
@@ -183,3 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0648-replace-words) |
+# Math
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
