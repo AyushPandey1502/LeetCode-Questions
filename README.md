@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0523-continuous-subarray-sum](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0876-hand-of-straights) |
@@ -137,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0876-hand-of-straights](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0876-hand-of-straights) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1137-height-checker](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1137-height-checker) |
