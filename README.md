@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0075-sort-colors) |
+| [0330-patching-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0648-replace-words) |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0876-hand-of-straights) |
