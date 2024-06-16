@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0392-is-subsequence) |
+| [1013-fibonacci-number](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1013-fibonacci-number) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 # Simulation
 |  |
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
+| [1013-fibonacci-number](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1013-fibonacci-number) |
 # Counting Sort
 |  |
 | ------- |
@@ -219,3 +221,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0502-ipo](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0502-ipo) |
+# Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1013-fibonacci-number) |
+# Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1013-fibonacci-number) |
