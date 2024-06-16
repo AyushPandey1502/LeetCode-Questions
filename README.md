@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1013-fibonacci-number) |
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0523-continuous-subarray-sum](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [1013-fibonacci-number](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1013-fibonacci-number) |
 # Counting Sort
@@ -228,4 +230,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1013-fibonacci-number) |
