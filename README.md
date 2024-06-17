@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2465-shifting-letters-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2465-shifting-letters-ii) |
 | [2574-count-subarrays-with-median-k](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2574-count-subarrays-with-median-k) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3387-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3387-minimum-operations-to-make-median-of-array-equal-to-k) |
 # Greedy
 |  |
@@ -235,3 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0070-climbing-stairs](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1013-fibonacci-number) |
+# Enumeration
+|  |
+| ------- |
+| [2844-sum-of-squares-of-special-elements](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2844-sum-of-squares-of-special-elements) |
