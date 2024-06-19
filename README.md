@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1137-height-checker](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1217-relative-sort-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0367-valid-perfect-square](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0853-most-profit-assigning-work) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1832-minimum-operations-to-make-a-subsequence](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1832-minimum-operations-to-make-a-subsequence) |
 # Counting
 |  |
