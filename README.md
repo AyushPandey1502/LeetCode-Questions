@@ -113,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0330-patching-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0502-ipo) |
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0035-search-insert-position) |
 | [0367-valid-perfect-square](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0633-sum-of-square-numbers) |
 | [0792-binary-search](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0792-binary-search) |
