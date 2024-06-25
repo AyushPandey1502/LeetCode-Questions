@@ -11,7 +11,6 @@ public:
     }
 
     TreeNode* bstToGst(TreeNode* root) {
-        sum = 0;
         formGst(root);
         return root;
     }
