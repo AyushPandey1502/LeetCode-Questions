@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0330-patching-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0330-patching-array) |
@@ -295,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1285-balance-a-binary-search-tree) |
 # Divide and Conquer
