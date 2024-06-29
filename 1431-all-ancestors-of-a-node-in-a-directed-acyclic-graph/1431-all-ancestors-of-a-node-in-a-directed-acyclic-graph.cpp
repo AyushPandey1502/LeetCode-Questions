@@ -13,7 +13,7 @@ public:
         }
     }
     vector<vector<int>> getAncestors(int n, vector<vector<int>>& edges) {
-        unordered_map<int, vector<int>> adjList;
+        unordered_map<int, vector<int>> adjList; // O(V+E)
         for (vector<int>& vec : edges) {
             int u = vec[0];
             int v = vec[1];
@@ -22,9 +22,9 @@ public:
         
         result.resize(n);
         
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < n; i++) { // O(V)
             int ancestor = i;
-            dfs(ancestor, adjList, i);
+            dfs(ancestor, adjList, i); // O(V+E)
         }
         return result;
     }
