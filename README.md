@@ -351,11 +351,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1293-three-consecutive-odds) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
