@@ -6,27 +6,19 @@ public:
         int N = nums.size();
         int maxNum = INT_MIN;
         int minNum = INT_MAX;
-        for(int i = 0; i < N; i++){
-            if(nums[i] > maxNum){
+        for (int i = 0; i < N; i++) {
+            if (nums[i] > maxNum) {
                 maxNum = nums[i];
                 maxIndex = i;
             }
-            if(nums[i] < minNum){
+            if (nums[i] < minNum) {
                 minNum = nums[i];
                 minIndex = i;
             }
         }
-        int minOp = (maxIndex > minIndex) ? maxIndex + 1 : minIndex + 1; // from Front only
-        int fromBack = (maxIndex < minIndex) ? N - maxIndex : N - minIndex; // from Back Only
-        if(fromBack < minOp) minOp = fromBack;
-        if(maxIndex < minIndex){
-            int op = maxIndex + N - minIndex + 1;
-            if(op < minOp) minOp = op;
-        }else{
-            int op = minIndex + N - maxIndex + 1;
-            if(op < minOp) minOp = op;
-        }
-        
-        return minOp;
+        int fromFront = max(minIndex, maxIndex) + 1;
+        int fromBack = max(N - minIndex, N - maxIndex);
+        int mixed = min(minIndex, maxIndex) + 1 + min(N - minIndex, N - maxIndex);
+        return min({fromFront, fromBack, mixed});
     }
 };
