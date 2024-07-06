@@ -378,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0007-reverse-integer) |
+| [2645-pass-the-pillow](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2645-pass-the-pillow) |
 ## Linked List
 |  |
 | ------- |
@@ -388,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2645-pass-the-pillow](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2645-pass-the-pillow) |
 ## Recursion
 |  |
 | ------- |
