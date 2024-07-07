@@ -383,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2645-pass-the-pillow) |
 | [3336-water-bottles-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3336-water-bottles-ii) |
@@ -395,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1642-water-bottles) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -409,4 +411,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
