@@ -357,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1293-three-consecutive-odds](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1293-three-consecutive-odds) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 ## Hash Table
@@ -385,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1642-water-bottles) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2645-pass-the-pillow) |
 | [3336-water-bottles-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3336-water-bottles-ii) |
 ## Linked List
@@ -398,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0067-add-binary](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0067-add-binary) |
 | [1642-water-bottles](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1642-water-bottles) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2645-pass-the-pillow) |
@@ -407,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0050-powx-n) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -419,4 +423,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0067-add-binary) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
