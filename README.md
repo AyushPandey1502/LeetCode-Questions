@@ -364,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Hash Table
 |  |
 | ------- |
@@ -371,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0726-number-of-atoms) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1392-find-the-difference-of-two-arrays) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -444,4 +446,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1818-maximum-score-from-removing-substrings) |
+## Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
+## Binary Tree
+|  |
+| ------- |
+| [2306-create-binary-tree-from-descriptions](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
 <!---LeetCode Topics End-->
