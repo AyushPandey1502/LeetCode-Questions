@@ -1,23 +1,9 @@
-// LOWEST COMMON ANCESTOR METHOD
+// SLIGHTY OPTIMIZED
 // TIME COMPLEXITY : O(N)
 // SPACE COMPLEXITY : O(N)
 
 class Solution {
 public:
-    TreeNode* lowestCommonAncestor(TreeNode* root, int src, int dest) {
-        if (root == NULL || root->val == src || root->val == dest) {
-            return root;
-        }
-        TreeNode* left = lowestCommonAncestor(root->left, src, dest);
-        TreeNode* right = lowestCommonAncestor(root->right, src, dest);
-        if (left == NULL)
-            return right;
-        else if (right == NULL)
-            return left;
-        else
-            return root;
-    }
-
     bool findPath(TreeNode* root, int target, string& path) {
         if (root == NULL) {
             return false;
@@ -26,28 +12,38 @@ public:
             return true;
         }
         path.push_back('L');
-        if (findPath(root->left, target, path) == true)
+        if (findPath(root->left, target, path)) {
             return true;
+        }
         path.pop_back();
 
         path.push_back('R');
-        if (findPath(root->right, target, path) == true)
+        if (findPath(root->right, target, path)) {
             return true;
+        }
         path.pop_back();
         return false;
     }
 
     string getDirections(TreeNode* root, int startValue, int destValue) {
-        TreeNode* lca = lowestCommonAncestor(root, startValue, destValue);
-        string lcaToSrc, lcaToDest;
+        string rootToSrc, rootToDest;
 
-        findPath(lca, startValue, lcaToSrc);
-        findPath(lca, destValue, lcaToDest);
+        findPath(root, startValue, rootToSrc);
+        findPath(root, destValue, rootToDest);
 
-        for (int i = 0; i < lcaToSrc.size(); i++) {
-            lcaToSrc[i] = 'U';
+        int i = 0;
+        while (i < rootToSrc.size() && i < rootToDest.size() && rootToSrc[i] == rootToDest[i]) {
+            i++;
         }
 
-        return lcaToSrc + lcaToDest;
+        string result;
+        for (int j = i; j < rootToSrc.size(); j++) {
+            result += 'U';
+        }
+        for (int j = i; j < rootToDest.size(); j++) {
+            result += rootToDest[j];
+        }
+
+        return result;
     }
 };
