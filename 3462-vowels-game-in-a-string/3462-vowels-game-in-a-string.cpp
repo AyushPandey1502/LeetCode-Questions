@@ -6,7 +6,6 @@ public:
     }
 
     bool doesAliceWin(string word) {
-        int count = 0;
         for (char letter : word) {
             if (isVowel(letter)) {
                 return true;
