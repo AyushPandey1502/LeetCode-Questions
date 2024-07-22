@@ -332,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0726-number-of-atoms](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2379-maximum-total-importance-of-roads) |
+| [2502-sort-the-people](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2502-sort-the-people) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -375,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2472-build-a-matrix-with-conditions) |
+| [2502-sort-the-people](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -384,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-delete-nodes-and-return-forest](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2502-sort-the-people](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
 | ------- |
@@ -443,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2502-sort-the-people](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2502-sort-the-people) |
 ## Bit Manipulation
 |  |
 | ------- |
