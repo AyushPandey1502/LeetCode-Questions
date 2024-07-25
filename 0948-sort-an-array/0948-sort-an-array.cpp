@@ -1,48 +1,45 @@
 class Solution {
 public:
-    void radixSort(vector<int>& nums, int n) {
-        int min_num = *min_element(nums.begin(), nums.end());
-        if (min_num < 0) {
-            for (int& num : nums) {
-                num += abs(min_num);
-            }
+    void merge(vector<int>& nums, int low, int mid, int high) {
+        int n1 = mid - low + 1;
+        int n2 = high - mid;
+        vector<int> left(n1), right(n2);
+
+        for (int i = 0; i < n1; i++) {
+            left[i] = nums[low + i];
         }
-        int max_num = *max_element(nums.begin(), nums.end());
-        for (int pos = 1; max_num / pos > 0; pos *= 10) {
-            countSort(nums, n, pos);
+        for (int i = 0; i < n2; i++) {
+            right[i] = nums[mid + 1 + i];
         }
 
-        if (min_num < 0) {
-            for (int& num : nums) {
-                num -= abs(min_num);
+        int i = 0, j = 0, k = low;
+        while (i < n1 && j < n2) {
+            if (left[i] <= right[j]) {
+                nums[k++] = left[i++];
+            } else {
+                nums[k++] = right[j++];
             }
+        }
+        while (i < n1) {
+            nums[k++] = left[i++];
+        }
+        while (j < n2) {
+            nums[k++] = right[j++];
         }
     }
 
-    void countSort(vector<int>& nums, int n, int pos) {
-        vector<int> count(10, 0);
-        vector<int> newArray(n);
-
-        for (int i = 0; i < n; i++) {
-            count[(nums[i] / pos) % 10]++;
+    void mergeSort(vector<int>& nums, int low, int high) {
+        if (low >= high) {
+            return;
         }
-
-        for (int i = 1; i < 10; i++) {
-            count[i] += count[i - 1];
-        }
-
-        for (int i = n - 1; i >= 0; i--) {
-            newArray[--count[(nums[i] / pos) % 10]] = nums[i];
-        }
-
-        for (int i = 0; i < n; i++) {
-            nums[i] = newArray[i];
-        }
+        int mid = low + (high - low) / 2;
+        mergeSort(nums, low, mid);
+        mergeSort(nums, mid + 1, high);
+        merge(nums, low, mid, high);
     }
 
     vector<int> sortArray(vector<int>& nums) {
-        int size = nums.size();
-        radixSort(nums, size);
+        mergeSort(nums, 0, nums.size() - 1);
         return nums;
     }
 };
