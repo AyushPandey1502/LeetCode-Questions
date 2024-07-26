@@ -1,25 +1,22 @@
 class Solution {
 public:
-#define P pair<int, int>
+    #define P pair<int, int>
 
-    void dijkstra(int n, unordered_map<int, vector<P>>& adj,
-                  vector<int>& result, int S) {
-        priority_queue<P, vector<P>, greater<P>> pq;
-        pq.push({0, S});
+    void bellmanFord(int n, vector<vector<int>>& edges, vector<int>& result, int S) {
         fill(result.begin(), result.end(), INT_MAX);
         result[S] = 0;
-        while (!pq.empty()) {
-            int d = pq.top().first;
-            int node = pq.top().second;
-            pq.pop();
+        
+        for(int i = 0; i < n; i++){
+            for(auto &edge : edges){
+                int u = edge[0];
+                int v = edge[1];
+                int wt = edge[2];
 
-            for (auto& p : adj[node]) {
-                int adjNode = p.first;
-                int dist = p.second;
-
-                if (d + dist < result[adjNode]) {
-                    result[adjNode] = d + dist;
-                    pq.push({d + dist, adjNode});
+                if(result[u] != INT_MAX && result[u] + wt < result[v]){
+                    result[v] = result[u] + wt;
+                }
+                if(result[v] != INT_MAX && result[v] + wt < result[u]){
+                    result[u] = result[v] + wt;
                 }
             }
         }
@@ -54,12 +51,12 @@ public:
             int u = edge[0];
             int v = edge[1];
             int wt = edge[2];
-            adj[u].push_back({v, wt});
-            adj[v].push_back({u, wt});
+            SPM[u][v] = wt;
+            SPM[v][u] = wt;
         }
 
         for (int i = 0; i < n; i++) {
-            dijkstra(n, adj, SPM[i], i);
+            bellmanFord(n, edges, SPM[i], i);
         }
         return findResult(n, SPM, distanceThreshold);
     }
