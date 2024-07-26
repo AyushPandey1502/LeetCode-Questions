@@ -1,22 +1,14 @@
 class Solution {
 public:
     #define P pair<int, int>
-
-    void bellmanFord(int n, vector<vector<int>>& edges, vector<int>& result, int S) {
-        fill(result.begin(), result.end(), INT_MAX);
-        result[S] = 0;
-        
-        for(int i = 0; i < n; i++){
-            for(auto &edge : edges){
-                int u = edge[0];
-                int v = edge[1];
-                int wt = edge[2];
-
-                if(result[u] != INT_MAX && result[u] + wt < result[v]){
-                    result[v] = result[u] + wt;
-                }
-                if(result[v] != INT_MAX && result[v] + wt < result[u]){
-                    result[u] = result[v] + wt;
+    
+    void floydWarshall(int n, vector<vector<int>>& SPM) {
+        for (int via = 0; via < n; via++) {
+            for (int i = 0; i < n; i++) {
+                for (int j = 0; j < n; j++) {
+                    if (SPM[i][via] != INT_MAX && SPM[via][j] != INT_MAX) {
+                        SPM[i][j] = min(SPM[i][j], SPM[i][via] + SPM[via][j]);
+                    }
                 }
             }
         }
@@ -46,7 +38,6 @@ public:
         for (int i = 0; i < n; i++) {
             SPM[i][i] = 0;
         }
-        unordered_map<int, vector<P>> adj;
         for (auto& edge : edges) {
             int u = edge[0];
             int v = edge[1];
@@ -55,9 +46,7 @@ public:
             SPM[v][u] = wt;
         }
 
-        for (int i = 0; i < n; i++) {
-            bellmanFord(n, edges, SPM[i], i);
-        }
+        floydWarshall(n, SPM);
         return findResult(n, SPM, distanceThreshold);
     }
 };
