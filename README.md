@@ -326,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2379-maximum-total-importance-of-roads](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2379-maximum-total-importance-of-roads) |
 | [2472-build-a-matrix-with-conditions](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2472-build-a-matrix-with-conditions) |
+| [2793-count-the-number-of-complete-components](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2793-count-the-number-of-complete-components) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Sorting
 |  |
@@ -351,10 +352,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2793-count-the-number-of-complete-components](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2793-count-the-number-of-complete-components](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2793-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
 | ------- |
