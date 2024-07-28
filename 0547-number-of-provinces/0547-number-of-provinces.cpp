@@ -17,7 +17,7 @@ public:
     }
     int findCircleNum(vector<vector<int>>& isConnected) {
         int n = isConnected.size();
-        vector<vector<int>> adjList(n);\
+        vector<vector<int>> adjList(n);
         for(int i = 0; i < n; i++){
             for(int j = 0; j < n; j++){
                 if(isConnected[i][j] == 1){
