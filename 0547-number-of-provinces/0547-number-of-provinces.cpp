@@ -1,38 +1,39 @@
 class Solution {
-private:
-    void dfs(int node, vector<int> adjLs[], int vis[]){
-        vis[node] = 1;
-        for(auto it : adjLs[node]){
-            if(!vis[it]){
-                dfs(it, adjLs, vis);
-            }
-        }
-    }
 public:
-    int findCircleNum(vector<vector<int>>& isConnected) {
-        int v = isConnected.size();
-        vector<int> adjLs[v+1];
-
-        // To change adjacency matrix to adjacency list
-        for(int i = 0; i < v; i++){
-            for(int j = 0; j < v; j++){
-                if(isConnected[i][j] == 1 && i != j){
-                    adjLs[i + 1].push_back(j + 1);
-                    adjLs[j + 1].push_back(i + 1);
+    void bfs(int source, vector<vector<int>>& adjList, vector<int>& visited){
+        queue<int> q;
+        q.push(source);
+        visited[source] = 1;
+        while(!q.empty()){
+            int node = q.front();
+            q.pop();
+            for(int it : adjList[node]){
+                if(!visited[it]){
+                    q.push(it);
+                    visited[it] = 1;
                 }
             }
         }
-        int vis[v+1];
-        for (int i = 0; i <= v; i++) {
-            vis[i] = 0;
-        }
-        int count = 0;
-        for(int i = 1; i <= v; i++){
-            if(!vis[i]){
-                count++;
-                dfs(i, adjLs, vis);
+    }
+    int findCircleNum(vector<vector<int>>& isConnected) {
+        int n = isConnected.size();
+        vector<vector<int>> adjList(n);\
+        for(int i = 0; i < n; i++){
+            for(int j = 0; j < n; j++){
+                if(isConnected[i][j] == 1){
+                    adjList[i].push_back(j);
+                    adjList[j].push_back(i);
+                }
             }
         }
-        return count;
+        vector<int> visited(n, 0);
+        int result = 0;
+        for(int i = 0; i < n; i++){
+            if(!visited[i]){
+                bfs(i, adjList, visited);
+                result++;
+            }
+        }
+        return result;
     }
 };
