@@ -1,19 +1,21 @@
 class Solution {
 public:
     int minimumDeletions(string s) {
-        int bCount = 0;
-        int deletions = 0;
+        stack<char> st;
+        int result = 0;
 
         for (char ch : s) {
             if (ch == 'b') {
-                bCount++;
-            } else if (ch == 'a') {
-                if (bCount > 0) {
-                    deletions++;
-                    bCount--;
+                st.push(ch);
+            } else { 
+                if (!st.empty() && st.top() == 'b') {
+                    result++;
+                    st.pop();
+                } else {
+                    st.push(ch);
                 }
             }
         }
-        return deletions;
+        return result;
     }
 };
