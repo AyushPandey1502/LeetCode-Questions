@@ -438,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2472-build-a-matrix-with-conditions](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2502-sort-the-people) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+| [2727-number-of-senior-citizens](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Hash Table
 |  |
@@ -516,6 +517,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2154-minimum-moves-to-convert-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2154-minimum-moves-to-convert-string) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Bit Manipulation
 |  |
