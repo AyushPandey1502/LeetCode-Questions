@@ -1,4 +1,6 @@
 // TARJAN'S ALGORITHM
+// TIME COMPLEXITY: O(V + 2E) -> DFS
+// SPACE COMPLEXITY: O(V + 2E) + O(3N)
 
 class Solution {
 public:
