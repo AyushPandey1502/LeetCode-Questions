@@ -365,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0210-course-schedule-ii) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0547-number-of-provinces](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0744-network-delay-time) |
@@ -554,6 +555,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -564,6 +566,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -639,6 +642,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0784-insert-into-a-binary-search-tree) |
