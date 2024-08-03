@@ -4,9 +4,6 @@ public:
         int n = arr.size();
         sort(target.begin(), target.end());
         sort(arr.begin(), arr.end());
-        for(int i = 0; i < n; i++){
-            if(target[i] != arr[i]) return false;
-        }
-        return true;
+        return (target == arr);
     }
 };
