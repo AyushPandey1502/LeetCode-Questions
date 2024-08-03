@@ -1,40 +1,27 @@
 class Solution {
 public:
-    TreeNode* findLastRight(TreeNode* root){
-        if(root->right == NULL) return root;
-        return findLastRight(root->right);
-    }
-    TreeNode* helper(TreeNode* root){
-        if(root->left == NULL) return root->right;
-        else if(root->right == NULL) return root->left;
-
-        TreeNode* rightChild = root->right;
-        TreeNode* lastRight = findLastRight(root->left);
-        lastRight->right = rightChild;
-        return root->left;
+    TreeNode* findMin(TreeNode* root){
+        if(root == NULL) return root;
+        else if(root->left == NULL) return root;
+        else return findMin(root->left);
     }
     TreeNode* deleteNode(TreeNode* root, int key) {
         if(root == NULL) return root;
-        if(root->val == key) return helper(root);
-
-        TreeNode* head = root;
-        while(root != NULL){
-            if(root->val > key){
-                if(root->left != NULL && root->left->val == key){
-                    root->left = helper(root->left);
-                    break;
-                }else{
-                    root = root->left;
-                }
+        if(key < root->val){
+            root->left = deleteNode(root->left, key);
+        }else if(key > root->val){
+            root->right = deleteNode(root->right, key);
+        }else{
+            if(root->left != NULL && root->right != NULL){
+                TreeNode* insuccessor = findMin(root->right);
+                root->val = insuccessor->val;
+                root->right = deleteNode(root->right, insuccessor->val);
             }else{
-                if(root->right != NULL && root->right->val == key){
-                    root->right = helper(root->right);
-                    break;
-                }else{
-                    root = root->right;
-                }
+                TreeNode* dummy = root;
+                if(dummy->right == NULL) return dummy->left;
+                if(dummy->left == NULL)  return dummy->right;
             }
         }
-        return head;
+        return root;
     }
 };
