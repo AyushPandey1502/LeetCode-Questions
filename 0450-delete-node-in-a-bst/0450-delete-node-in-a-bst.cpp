@@ -1,37 +1,40 @@
 class Solution {
 public:
-    TreeNode* findMin(TreeNode* root) {
-        if (root == NULL) return NULL;
-        else if (root->left == NULL) return root;
-        else return findMin(root->left);
+    TreeNode* findLastRight(TreeNode* root){
+        if(root->right == NULL) return root;
+        return findLastRight(root->right);
     }
+    TreeNode* helper(TreeNode* root){
+        if(root->left == NULL) return root->right;
+        else if(root->right == NULL) return root->left;
 
+        TreeNode* rightChild = root->right;
+        TreeNode* lastRight = findLastRight(root->left);
+        lastRight->right = rightChild;
+        return root->left;
+    }
     TreeNode* deleteNode(TreeNode* root, int key) {
-        if (root == NULL) return root;
+        if(root == NULL) return root;
+        if(root->val == key) return helper(root);
 
-        if (key < root->val) {
-            root->left = deleteNode(root->left, key);
-        } else if (key > root->val) {
-            root->right = deleteNode(root->right, key);
-        } else {
-            if (root->left != NULL && root->right != NULL) {
-                TreeNode* insucc = findMin(root->right);
-                root->val = insucc->val;
-                root->right = deleteNode(root->right, insucc->val);
-            } else {
-                TreeNode* temp = root;
-                TreeNode* child = NULL;
-
-                if (!temp->right) {
-                    child = temp->left;
+        TreeNode* head = root;
+        while(root != NULL){
+            if(root->val > key){
+                if(root->left != NULL && root->left->val == key){
+                    root->left = helper(root->left);
+                    break;
+                }else{
+                    root = root->left;
                 }
-                if (!temp->left) {
-                    child = temp->right;
+            }else{
+                if(root->right != NULL && root->right->val == key){
+                    root->right = helper(root->right);
+                    break;
+                }else{
+                    root = root->right;
                 }
-                delete temp;
-                return child;
             }
         }
-        return root;
+        return head;
     }
 };
