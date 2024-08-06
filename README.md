@@ -429,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0130-surrounded-regions](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0130-surrounded-regions) |
 | [0189-rotate-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0542-01-matrix](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0542-01-matrix) |
@@ -485,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
