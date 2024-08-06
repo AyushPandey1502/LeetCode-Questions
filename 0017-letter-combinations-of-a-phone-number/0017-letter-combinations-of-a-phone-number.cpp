@@ -9,18 +9,20 @@ public:
             {'8', {'t', 'u', 'v'}}, {'9', {'w', 'x', 'y', 'z'}}
         };
 
-        vector<string> result;
-        result.push_back("");
+        unordered_set<string> set;
+        set.insert("");
 
-        for (char digit : digits) {
-            vector<string> temp;
-            for (string str : result) {
-                for (char ch : map[digit]) {
-                    temp.push_back(str + ch);
+        for (int i = 0; i < digits.size(); ++i) {
+            vector<char> vec = map[digits[i]];
+            unordered_set<string> temp;
+
+            for (auto str : set) {
+                for (auto it : vec) {
+                    temp.insert(str + it);
                 }
             }
-            result.swap(temp);
+            set = move(temp);
         }
-        return result;
+        return vector<string>(set.begin(), set.end());
     }
 };
