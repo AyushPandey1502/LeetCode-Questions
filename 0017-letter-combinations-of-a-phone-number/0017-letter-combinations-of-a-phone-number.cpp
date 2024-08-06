@@ -12,7 +12,7 @@ public:
         unordered_set<string> set;
         set.insert("");
 
-        for (int i = 0; i < digits.size(); ++i) {
+        for (int i = 0; i < digits.size(); i++) {
             vector<char> vec = map[digits[i]];
             unordered_set<string> temp;
 
