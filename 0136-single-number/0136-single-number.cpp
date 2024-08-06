@@ -1,10 +1,18 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        int result = 0;
-        for(int i = 0; i < nums.size(); i++){
-            result ^= nums[i];
+        int n = nums.size();
+        for (int i = 0; i < n; i++) {
+            int count = 0;
+            for (int j = 0; j < n; j++) {
+                if (nums[j] == nums[i]) {
+                    count++;
+                }
+            }
+            if (count == 1) {
+                return nums[i];
+            }
         }
-        return result;
+        return -1;
     }
 };
