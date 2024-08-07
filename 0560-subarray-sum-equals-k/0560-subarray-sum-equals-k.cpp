@@ -1,3 +1,5 @@
+// BRUTE FORCE SOLUTION 
+// TIME COMPLEXITY : O(N)
 class Solution {
 public:
     int subarraySum(vector<int>& nums, int k) {
