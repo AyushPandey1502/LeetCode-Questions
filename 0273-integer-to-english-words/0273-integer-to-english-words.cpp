@@ -1,4 +1,3 @@
-
 class Solution {
 public:
     string numberToWords(int num) {
@@ -17,8 +16,7 @@ public:
         };
 
         string result = intToString(num, map);
-        result.pop_back();
-        return result;
+        return trim(result);
     }
 
 private:
@@ -40,5 +38,13 @@ private:
         else
             return intToString(num / 1000000000, map) + "Billion " +
                    intToString(num % 1000000000, map);
+    }
+
+    string trim(const string& str) {
+        size_t first = str.find_first_not_of(' ');
+        if (first == string::npos)
+            return "";
+        size_t last = str.find_last_not_of(' ');
+        return str.substr(first, (last - first + 1));
     }
 };
