@@ -18,18 +18,6 @@ public:
                 count--;
             }
         }
-
-        // If it is possible that majority element not present then
-        // we need to check the occurence of element in array.
-        count = 0;
-        for(int i = 0; i < n; i++){
-            if(nums[i] == element){
-                count++;
-            }
-            if(count > n/2){
-                return element;
-            }
-        }
-        return -1;
+        return element;
     }
 };
