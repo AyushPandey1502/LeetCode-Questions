@@ -343,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -434,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0130-surrounded-regions](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0283-move-zeroes) |
@@ -480,6 +482,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0127-word-ladder](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0127-word-ladder) |
+| [0169-majority-element](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -634,6 +637,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -650,6 +654,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0948-sort-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
