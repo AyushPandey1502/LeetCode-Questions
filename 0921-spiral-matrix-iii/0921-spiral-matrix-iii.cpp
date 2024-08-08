@@ -1,23 +1,28 @@
+// TIME COMPLEXITY : O((max(rows, cols)) ^ 2)
 class Solution {
 public:
     vector<vector<int>> spiralMatrixIII(int rows, int cols, int rStart, int cStart) {
+        vector<vector<int>> directions = {
+            {0, 1},  // EAST
+            {1, 0},  // SOUTH
+            {0, -1}, // WEST
+            {-1, 0}  // NORTH
+        };
         vector<vector<int>> result;
+        int step = 0; 
+        int dir = 0; 
         result.push_back({rStart, cStart});
-        int drow[4] = {0, 1, 0, -1};
-        int dcol[4] = {1, 0, -1, 0};
-        int dir = 0;
-        int steps = 0;
 
         while (result.size() < rows * cols) {
-            if (dir == 0 || dir == 2) steps++;
-            for (int i = 0; i < steps; i++) {
-                int nrow = rStart + drow[dir];
-                int ncol = cStart + dcol[dir];
-                if (nrow >= 0 && nrow < rows && ncol >= 0 && ncol < cols) {
-                    result.push_back({nrow, ncol});
-                }
-                rStart = nrow;
-                cStart = ncol;
+            if (dir == 0 || dir == 2)
+                step++;
+
+            for (int i = 0; i < step; i++) {
+                rStart += directions[dir][0];
+                cStart += directions[dir][1];
+
+                if (rStart >= 0 && rStart < rows && cStart >= 0 && cStart < cols) 
+                    result.push_back({rStart, cStart});
             }
             dir = (dir + 1) % 4;
         }
