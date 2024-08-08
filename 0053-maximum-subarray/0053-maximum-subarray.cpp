@@ -1,3 +1,7 @@
+// OPTIMAL APPROACH : KADANE'S ALGORITHM
+// TIME COMPLEXITY : O(N)
+// SPACE COMPLEXITY : O(1)
+
 class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
