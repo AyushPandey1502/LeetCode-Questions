@@ -472,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2163-kth-distinct-string-in-an-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2502-sort-the-people) |
@@ -509,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -547,6 +549,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1803-average-waiting-time](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2645-pass-the-pillow](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2645-pass-the-pillow) |
