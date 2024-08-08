@@ -432,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
@@ -530,6 +531,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0067-add-binary) |
@@ -634,6 +636,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0542-01-matrix) |
