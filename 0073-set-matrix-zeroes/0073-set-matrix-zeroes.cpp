@@ -12,18 +12,10 @@ public:
                 }
             }
         }
-
+        
         for (int i = 0; i < n; i++) {
-            if (row[i] == 1) {
-                fill(matrix[i].begin(), matrix[i].end(), 0);
-            }
-        }
-
-        for (int j = 0; j < m; j++) {
-            if (col[j] == 1) {
-                for (int i = 0; i < n; i++) {
-                    matrix[i][j] = 0;
-                }
+            for (int j = 0; j < m; j++) {
+                if(row[i] > 0 or col[j] > 0) matrix[i][j] = 0;
             }
         }
     }
