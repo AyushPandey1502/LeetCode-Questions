@@ -443,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
@@ -537,6 +538,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0273-integer-to-english-words) |
 | [1642-water-bottles](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1642-water-bottles) |
@@ -722,4 +724,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
