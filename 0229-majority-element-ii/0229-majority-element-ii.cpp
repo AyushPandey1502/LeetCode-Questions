@@ -1,22 +1,41 @@
 // OPTIMAL APPROACH:
-// TIME COMPLEXITY : O(N*LOGN)
-// SPACE COMPLEXITY : O(N)
+// TIME COMPLEXITY : O(N)
+// SPACE COMPLEXITY : O(1)
 class Solution {
 public:
     vector<int> majorityElement(vector<int>& nums) {
         int n = nums.size();
-        int minNumElem = n / 3 + 1;
-        unordered_map<int, int> freq;
-        vector<int> result;
+        if (n < 2) return nums;
+
+        int num1 = INT_MIN, num2 = INT_MIN;
+        int count1 = 0, count2 = 0;
 
         for (int i = 0; i < n; i++) {
-            freq[nums[i]]++;
-            if (freq[nums[i]] == minNumElem) {
-                result.push_back(nums[i]);
+            if (nums[i] == num1) {
+                count1++;
+            } else if (nums[i] == num2) {
+                count2++;
+            } else if (count1 == 0) {
+                num1 = nums[i];
+                count1 = 1;
+            } else if (count2 == 0) {
+                num2 = nums[i];
+                count2 = 1;
+            } else {
+                count1--;
+                count2--;
             }
-            if (result.size() == 2)
-                break;
         }
+        count1 = 0;
+        count2 = 0;
+        for (int i = 0; i < n; i++) {
+            if (nums[i] == num1) count1++;
+            else if (nums[i] == num2) count2++;
+        }
+        vector<int> result;
+        if (count1 > n / 3) result.push_back(num1);
+        if (count2 > n / 3) result.push_back(num2);
+
         return result;
     }
 };
