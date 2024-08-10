@@ -453,6 +453,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0542-01-matrix) |
@@ -703,6 +704,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0416-partition-equal-subset-sum](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0803-cheapest-flights-within-k-stops) |
