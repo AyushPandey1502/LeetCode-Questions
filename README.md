@@ -387,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1300-critical-connections-in-a-network](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1300-critical-connections-in-a-network) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1753-path-with-minimum-effort](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1753-path-with-minimum-effort) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2793-count-the-number-of-complete-components](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2793-count-the-number-of-complete-components) |
@@ -409,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1073-number-of-enclaves](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1753-path-with-minimum-effort](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1753-path-with-minimum-effort) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2793-count-the-number-of-complete-components](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2793-count-the-number-of-complete-components) |
@@ -479,6 +481,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -674,6 +677,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1073-number-of-enclaves](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1753-path-with-minimum-effort](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1753-path-with-minimum-effort) |
 | [2472-build-a-matrix-with-conditions](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2472-build-a-matrix-with-conditions) |
@@ -765,4 +769,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0204-count-primes](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0204-count-primes) |
 | [2610-closest-prime-numbers-in-range](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2610-closest-prime-numbers-in-range) |
 | [3314-most-frequent-prime](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3314-most-frequent-prime) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 <!---LeetCode Topics End-->
