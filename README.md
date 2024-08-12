@@ -345,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0075-sort-colors](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
@@ -363,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0744-network-delay-time](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -454,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0204-count-primes) |
+| [0215-kth-largest-element-in-an-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0283-move-zeroes) |
@@ -691,6 +694,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0053-maximum-subarray](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -785,4 +789,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
