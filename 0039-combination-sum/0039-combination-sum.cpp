@@ -6,11 +6,12 @@ public:
             result.push_back(temp);
             return;
         }
-        if(sum < 0 || index == n) return;
+        if(sum < 0 || index == n || index < 0) return;
+
+        solve(index + 1, nums, temp, sum, n);
         temp.push_back(nums[index]);
         solve(index, nums, temp, sum - nums[index], n);
         temp.pop_back();
-        solve(index + 1, nums, temp, sum, n);
     }
 
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
