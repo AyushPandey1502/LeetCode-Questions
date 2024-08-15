@@ -2,8 +2,8 @@ class Solution {
 public:
     bool lemonadeChange(vector<int>& bills) {
         int change5 = 0, change10 = 0;
-        
-        for(int bill : bills) {
+
+        for (int bill : bills) {
             if (bill == 5) {
                 change5++;
             } else if (bill == 10) {
