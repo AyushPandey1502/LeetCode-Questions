@@ -587,6 +587,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0273-integer-to-english-words) |
 | [0343-integer-break](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0343-integer-break) |
+| [0650-2-keys-keyboard](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -755,6 +756,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0542-01-matrix) |
+| [0650-2-keys-keyboard](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0650-2-keys-keyboard) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1196-filling-bookcase-shelves](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
