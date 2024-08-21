@@ -638,6 +638,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0127-word-ladder](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0127-word-ladder) |
 | [0273-integer-to-english-words](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0273-integer-to-english-words) |
+| [0664-strange-printer](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0664-strange-printer) |
 | [0692-top-k-frequent-words](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0692-top-k-frequent-words) |
 | [0726-number-of-atoms](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -760,6 +761,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0650-2-keys-keyboard](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0664-strange-printer) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1196-filling-bookcase-shelves](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1240-stone-game-ii) |
