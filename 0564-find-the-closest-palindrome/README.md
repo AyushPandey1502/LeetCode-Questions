@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-the-closest-palindrome/?envType=daily-question&envId=2024-08-24">564. Find the Closest Palindrome</a></h2><h3>Hard</h3><hr><p>Given a string <code>n</code> representing an integer, return <em>the closest integer (not including itself), which is a palindrome</em>. If there is a tie, return <em><strong>the smaller one</strong></em>.</p>
+<h2><a href="https://leetcode.com/problems/find-the-closest-palindrome">564. Find the Closest Palindrome</a></h2><h3>Hard</h3><hr><p>Given a string <code>n</code> representing an integer, return <em>the closest integer (not including itself), which is a palindrome</em>. If there is a tie, return <em><strong>the smaller one</strong></em>.</p>
 
 <p>The closest is defined as the absolute difference minimized between two integers.</p>
 
