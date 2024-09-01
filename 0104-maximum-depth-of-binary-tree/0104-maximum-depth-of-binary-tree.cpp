@@ -1,9 +1,9 @@
-// TIME COMPLEXITY : O(N)
-// SPACE COMPLEXITY : O(N) => FOR SKEWED BINARY TREE
 class Solution {
 public:
     int maxDepth(TreeNode* root) {
-        if(root == NULL) return 0;
-        return max(maxDepth(root -> left) + 1, maxDepth(root -> right)+ 1);
+        if(root == nullptr) return 0;
+        int leftHt = maxDepth(root -> left);
+        int rightHt = maxDepth(root -> right);
+        return 1 + max(leftHt, rightHt);
     }
 };
