@@ -540,6 +540,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0127-word-ladder) |
@@ -654,6 +655,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0067-add-binary](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0127-word-ladder](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0127-word-ladder) |
@@ -822,6 +824,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Binary Search Tree
 |  |
