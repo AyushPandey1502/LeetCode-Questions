@@ -8,12 +8,10 @@ public:
         while(right < nums.size()){
             if(nums[right] == 0) count++;
             if(count > k){
-                while(count != k){
-                    if(nums[left] == 0) count--;
-                    left++;
-                }
+                if(nums[left] == 0) count--;
+                left++;
             }
-            maxLen = max(maxLen, right - left + 1);
+            if(count <= k) maxLen = max(maxLen, right - left + 1);
             right++;
         }
         return maxLen;
