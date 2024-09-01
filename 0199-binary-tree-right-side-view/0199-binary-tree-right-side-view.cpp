@@ -1,16 +1,14 @@
-// RECURSIVE APPROACH
 class Solution {
 public:
+    void rightSideView(TreeNode* root, int level, vector<int>& result){
+        if(root == nullptr) return;
+        if(level == result.size()) result.push_back(root -> val);
+        rightSideView(root -> right, level + 1, result);
+        rightSideView(root -> left, level + 1, result);
+    }
     vector<int> rightSideView(TreeNode* root) {
         vector<int> result;
-        modifiedPreorder(root, 0, result);
+        rightSideView(root, 0, result);
         return result;
-    }
-
-    void modifiedPreorder(TreeNode* root, int level, vector<int> &result){
-        if(root == NULL) return;
-        if(level == result.size()) result.push_back(root -> val);
-        modifiedPreorder(root -> right, level + 1, result);
-        modifiedPreorder(root -> left, level + 1, result);
     }
 };
