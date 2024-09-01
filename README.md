@@ -388,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0130-surrounded-regions) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0207-course-schedule) |
@@ -415,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0207-course-schedule) |
@@ -721,6 +723,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0450-delete-node-in-a-bst) |
@@ -735,6 +738,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0450-delete-node-in-a-bst) |
