@@ -16,9 +16,6 @@ public:
     }
 
     int numSubarraysWithSum(vector<int>& nums, int goal) {
-        if (goal == 0) {
-            return countGoal(nums, 0);
-        }
         return countGoal(nums, goal) - countGoal(nums, goal - 1);
     }
 };
