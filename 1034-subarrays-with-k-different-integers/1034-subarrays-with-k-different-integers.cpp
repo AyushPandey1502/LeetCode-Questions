@@ -11,7 +11,7 @@ public:
                 if(map[nums[left]] == 0) map.erase(nums[left]);
                 left++;
             }
-            count += (right - left);
+            count += (right - left + 1);
             right++;
         }  
         return count;
