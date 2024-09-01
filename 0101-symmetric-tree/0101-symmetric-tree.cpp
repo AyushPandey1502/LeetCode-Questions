@@ -1,12 +1,16 @@
 class Solution {
 public:
-    bool isSymmetric(TreeNode* root) {
-        if(root == NULL) return true;
-        return checkSymmetric(root-> left, root->right);
+    bool checkSymmetricity(TreeNode* root1, TreeNode* root2) {
+        if (root1 == nullptr && root2 == nullptr)
+            return true;
+        if (root1 == nullptr || root2 == nullptr)
+            return false;
+        return (root1->val == root2->val) &&
+               checkSymmetricity(root1->left, root2->right) &&
+               checkSymmetricity(root1->right, root2->left);
     }
-
-    bool checkSymmetric(TreeNode* p, TreeNode* q){
-        if(p == NULL || q == NULL) return p == q;
-        return p->val == q->val && checkSymmetric(p->left, q->right) && checkSymmetric(p->right, q->left);
+    
+    bool isSymmetric(TreeNode* root) {
+        return checkSymmetricity(root->left, root->right);
     }
 };
