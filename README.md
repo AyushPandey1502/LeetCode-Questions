@@ -312,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0624-maximum-distance-in-arrays](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0890-lemonade-change) |
@@ -474,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0130-surrounded-regions) |
+| [0134-gas-station](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0189-rotate-array) |
