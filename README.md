@@ -550,6 +550,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2411-spiral-matrix-iv](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2502-sort-the-people) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
@@ -658,6 +659,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1484-linked-list-in-binary-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2411-spiral-matrix-iv](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
 |  |
@@ -676,6 +678,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2155-find-missing-observations](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2155-find-missing-observations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2411-spiral-matrix-iv](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2411-spiral-matrix-iv) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2645-pass-the-pillow](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2645-pass-the-pillow) |
 | [3336-water-bottles-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3336-water-bottles-ii) |
@@ -805,6 +808,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1753-path-with-minimum-effort](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2411-spiral-matrix-iv](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2472-build-a-matrix-with-conditions) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [3314-most-frequent-prime](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3314-most-frequent-prime) |
