@@ -16,7 +16,6 @@ public:
             temp->next = next;
             current = next;
         }
-
         return head;
     }
 };
