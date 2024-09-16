@@ -2,7 +2,7 @@ class Solution {
 public:
     int findMinDifference(vector<string>& timePoints) {
         vector<int> minutes;
-        for (const string& time : timePoints) {
+        for (string time : timePoints) {
             int hrs = stoi(time.substr(0, 2));
             int mins = stoi(time.substr(3, 2));
             minutes.push_back(hrs * 60 + mins);
