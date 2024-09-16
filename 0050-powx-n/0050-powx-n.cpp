@@ -1,18 +1,21 @@
 class Solution {
 public:
     double myPow(double x, int n) {
-        if (n == 0) return 1;
-        long long N = n;
-        if (N < 0) {
+        double result = 1;
+        long num = n;
+        if (n < 0) {
+            num = -num;
             x = 1 / x;
-            N = -N;
         }
-        return fastPow(x, N);
-    }
-    double fastPow(double x, long long n) {
-        if (n == 0) return 1;
-        double half = fastPow(x, n / 2);
-        if (n % 2 == 0) return half * half;
-        else return half * half * x;
+        while (num > 0) {
+            if (num % 2 == 1) {
+                result *= x;
+                num--;
+            } else {
+                x = x * x;
+                num = num / 2;
+            }
+        }
+        return result;
     }
 };
