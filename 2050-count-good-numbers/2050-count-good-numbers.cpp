@@ -6,8 +6,7 @@ public:
         if (n % 2 == 1) {
             return (x * power(x, n - 1)) % MOD;
         }
-        long long half = power(x, n / 2);
-        return (half * half) % MOD;
+        return power(((x % MOD) * (x % MOD)) % MOD, n / 2) % MOD;
     }
 
     int countGoodNumbers(long long n) {
