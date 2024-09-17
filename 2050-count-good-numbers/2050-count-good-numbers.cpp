@@ -4,10 +4,10 @@ public:
     long long power(int x, long long n) {
         if (n == 0) return 1;
         if (n % 2 == 1) {
-            return (x * 1LL * power(x, n - 1)) % MOD;
+            return (x * power(x, n - 1)) % MOD;
         }
         long long half = power(x, n / 2);
-        return (half * 1LL * half) % MOD;
+        return (half * half) % MOD;
     }
 
     int countGoodNumbers(long long n) {
