@@ -1,18 +1,17 @@
 class Solution {
 public:
     vector<string> uncommonFromSentences(string s1, string s2) {
-        unordered_map<string, int> wordCount;
+        unordered_set<string> uniqueWords, repeatedWords;
         stringstream ss(s1 + " " + s2);
         string word;
         while (ss >> word) {
-            wordCount[word]++;
-        }
-        vector<string> result;
-        for (auto entry : wordCount) {
-            if (entry.second == 1) {
-                result.push_back(entry.first);
+            if (uniqueWords.find(word) != uniqueWords.end()) {
+                uniqueWords.erase(word);
+                repeatedWords.insert(word);
+            } else if (repeatedWords.find(word) == repeatedWords.end()) {
+                uniqueWords.insert(word);
             }
         }
-        return result;
+        return vector<string>(uniqueWords.begin(), uniqueWords.end());
     }
 };
