@@ -1,26 +1,23 @@
 class Solution {
 public:
-
-    long recursiveAtoi(const string& s, int i, int sign, long result) {
-        if (i >= s.size() || !isdigit(s[i])) {
-            return result * sign;
+    long recursiveAtoi(int index, string s, int sign, long result){
+        if(index > s.size() || !isdigit(s[index])){
+            return sign * result;
         }
-        result = result * 10 + (s[i] - '0');
-        if (result * sign > INT_MAX) return INT_MAX;
-        if (result * sign < INT_MIN) return INT_MIN;
-        return recursiveAtoi(s, i + 1, sign, result);
+        result = result * 10 + (s[index] - '0');
+        if(sign * result > INT_MAX) return INT_MAX;
+        if(sign * result < INT_MIN) return INT_MIN;
+        return recursiveAtoi(index + 1, s, sign, result);
     }
     int myAtoi(string s) {
-        int i = 0;
+        int index = 0;
         int sign = 1;
-        while (i < s.size() && s[i] == ' ') {
-            i++;
+        while(index < s.size() && s[index] == ' ') index++;
+        if(index < s.size() && (s[index] == '-' || s[index] == '+')){
+            sign = (s[index] == '-') ? -1 : 1;
+            index++;
         }
-        if (i < s.size() && (s[i] == '+' || s[i] == '-')) {
-            sign = (s[i] == '-') ? -1 : 1;
-            i++;
-        }
-        long result = recursiveAtoi(s, i, sign, 0);
+        long result = recursiveAtoi(index, s, sign, 0);
         return static_cast<int>(result);
     }
 };
