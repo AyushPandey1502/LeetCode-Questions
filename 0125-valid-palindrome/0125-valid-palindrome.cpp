@@ -1,18 +1,23 @@
 class Solution {
 public:
-    bool isPalindrome(string s) {
-        int left = 0;
-        int right = s.size() - 1;
-        while(left < right){
-            if(!isalnum(s[left])) left++;
-            else if(!isalnum(s[right])) right--;
-            else if(tolower(s[left]) != tolower(s[right])){
-                return false;
-            }else{
-                left++;
-                right--;
+    bool checkPalindrome(int left, int right, const string& s) {
+        while (left < right) {
+            if (!isalnum(s[left])) {
+                ++left;
+            } else if (!isalnum(s[right])) {
+                --right;
+            } else {
+                if (tolower(s[left]) != tolower(s[right])) {
+                    return false;
+                }
+                ++left;
+                --right;
             }
         }
         return true;
+    }
+    
+    bool isPalindrome(string s) {
+        return checkPalindrome(0, s.size() - 1, s);
     }
 };
