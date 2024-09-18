@@ -615,6 +615,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
@@ -725,6 +726,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0127-word-ladder) |
 | [0179-largest-number](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0179-largest-number) |
 | [0273-integer-to-english-words](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0273-integer-to-english-words) |
