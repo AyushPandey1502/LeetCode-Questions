@@ -1,19 +1,20 @@
-// BIT MANIPULATION METHOD
-// Time Complexity: O(2^n * n)
-// Space Complexity : O(2^n * n)
 class Solution {
 public:
-    vector<vector<int>> subsets(vector<int>& nums) {
-        int n = nums.size();
-        vector<vector<int>> result;
-        int numSubsets = 1 << n;
-        for(int i = 0; i < numSubsets; i++){
-            vector<int> temp;
-            for(int j = 0; j < n; j++){
-                if((1 << j) & i) temp.push_back(nums[j]);
-            }
+    void generate(int i, vector<int> nums, vector<int> temp, vector<vector<int>>& result){
+        if(i == nums.size()){
             result.push_back(temp);
+            return;
         }
+        temp.push_back(nums[i]);
+        generate(i + 1, nums, temp, result);
+        temp.pop_back();
+        generate(i + 1, nums, temp, result);
+
+    }
+    vector<vector<int>> subsets(vector<int>& nums) {
+        vector<int> temp;
+        vector<vector<int>> result;
+        generate(0, nums, temp, result);
         return result;
     }
 };
