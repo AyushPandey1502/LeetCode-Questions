@@ -6,10 +6,11 @@ public:
             return;
         }
         if (i > n) return;
-        temp.push_back(i);
-        generateComb(i + 1, n, k, temp, result);
-        temp.pop_back();
-        generateComb(i + 1, n, k, temp, result);
+        for (int j = i; j <= n; j++) {
+            temp.push_back(j);
+            generateComb(j + 1, n, k, temp, result);
+            temp.pop_back(); 
+        }
     }
 
     vector<vector<int>> combine(int n, int k) {
