@@ -6,17 +6,17 @@ public:
             return;
         }
         if (target < 0 || i == nums.size()) return;
-
         temp.push_back(nums[i]);
         generateComb(i + 1, nums, target - nums[i], temp, result);
         temp.pop_back();
 
-        for (int j = i + 1; j < nums.size(); j++) {
-            if (nums[j] != nums[i]) {
+        for(int j = i + 1; j < nums.size(); j++){
+            if(nums[j] != nums[i]){
                 generateComb(j, nums, target, temp, result);
                 break;
             }
         }
+
     }
 
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
