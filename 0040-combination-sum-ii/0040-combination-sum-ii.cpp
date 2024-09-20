@@ -1,27 +1,29 @@
 class Solution {
 public:
-    vector<vector<int>> result;
-
-    void solve(vector<int>& nums, int index, int sum, vector<int>& temp) {
-        if (sum == 0) {
+    void generateComb(int i, vector<int>& nums, int target, vector<int> temp, vector<vector<int>>& result) {
+        if (target == 0) {
             result.push_back(temp);
             return;
         }
+        if (target < 0 || i == nums.size()) return;
 
-        for (int i = index; i >= 0; i--) {
-            if (i < index && nums[i] == nums[i + 1]) continue; 
-            if (nums[i] > sum) continue; 
+        temp.push_back(nums[i]);
+        generateComb(i + 1, nums, target - nums[i], temp, result);
+        temp.pop_back();
 
-            temp.push_back(nums[i]);
-            solve(nums, i - 1, sum - nums[i], temp);
-            temp.pop_back();
+        for (int j = i + 1; j < nums.size(); j++) {
+            if (nums[j] != nums[i]) {
+                generateComb(j, nums, target, temp, result);
+                break;
+            }
         }
     }
 
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
-        sort(candidates.begin(), candidates.end()); 
+        vector<vector<int>> result;
         vector<int> temp;
-        solve(candidates, candidates.size() - 1, target, temp);
+        sort(candidates.begin(), candidates.end());
+        generateComb(0, candidates, target, temp, result);
         return result;
     }
 };
