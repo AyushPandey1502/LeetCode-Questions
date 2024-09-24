@@ -3,7 +3,7 @@ public:
     int longestCommonPrefix(vector<int>& arr1, vector<int>& arr2) {
         unordered_set<int> set;
         for(auto x : arr1){
-            while(x > 0){
+            while(!set.count(x) && x > 0){
                 set.insert(x);
                 x = x / 10;
             }
