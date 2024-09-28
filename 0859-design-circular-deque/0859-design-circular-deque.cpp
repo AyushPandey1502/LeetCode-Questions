@@ -1,76 +1,56 @@
 class MyCircularDeque {
 private:
-    int *deque;
-    int front;
-    int rear;
-    int size;
+    vector<int> deque;
+    int front, rear, capacity, count;
+
 public:
-    MyCircularDeque(int k) {
-        deque = new int[k];
-        front = -1;
-        rear = -1;
-        size = k;
-    }
+    MyCircularDeque(int k) : deque(k), front(0), rear(k - 1), capacity(k), count(0) {}
     
     bool insertFront(int value) {
-        if(isFull()) return false;
-        else if(isEmpty()){
-            front = rear = 0;
-        }
-        else if(front == 0){
-            front = size-1;
-        }else{
-            front --;
-        }
+        if (isFull()) return false;
+        front = (front - 1 + capacity) % capacity; 
         deque[front] = value;
+        count++;
         return true;
     }
-    
+
     bool insertLast(int value) {
-        if(isFull()) return false;
-        else if(isEmpty()){
-            front = rear = 0;
-        }
-        else if(front != 0 && rear == size-1){
-            rear = 0;
-        }else{
-            rear++;
-        }
+        if (isFull()) return false;
+        rear = (rear + 1) % capacity; 
         deque[rear] = value;
+        count++;
         return true;
     }
-    
+
     bool deleteFront() {
-        if(isEmpty()) return false;
-        else if(front == rear) front = rear = -1;
-        else if(front == size-1) front = 0;
-        else front++;
+        if (isEmpty()) return false;
+        front = (front + 1) % capacity; 
+        count--;
         return true;
     }
-    
+
     bool deleteLast() {
-        if(isEmpty()) return false;
-        else if(front == rear) front = rear = -1;
-        else if(rear == 0) rear = size - 1;
-        else rear--;
+        if (isEmpty()) return false;
+        rear = (rear - 1 + capacity) % capacity; 
+        count--;
         return true;
     }
-    
+
     int getFront() {
-        if(isEmpty()) return -1;
+        if (isEmpty()) return -1;
         return deque[front];
     }
-    
+
     int getRear() {
-        if(isEmpty()) return -1;
+        if (isEmpty()) return -1;
         return deque[rear];
     }
-    
+
     bool isEmpty() {
-        return front == -1;
+        return count == 0;
     }
-    
+
     bool isFull() {
-        return ((front == 0 && rear == size-1) || (front != 0 && rear ==(front - 1)%(size -1)));
+        return count == capacity;
     }
 };
