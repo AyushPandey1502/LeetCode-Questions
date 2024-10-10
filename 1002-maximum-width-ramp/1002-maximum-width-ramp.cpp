@@ -15,7 +15,6 @@ public:
                 stack.pop_back();
             }
         }
-
         return maxWidth;
     }
 };
