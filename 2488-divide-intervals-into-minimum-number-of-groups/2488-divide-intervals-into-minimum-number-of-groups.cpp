@@ -14,7 +14,6 @@ public:
             currGrp += evt.second;
             maxGrp = max(maxGrp, currGrp);
         }
-        
         return maxGrp;
     }
 };
