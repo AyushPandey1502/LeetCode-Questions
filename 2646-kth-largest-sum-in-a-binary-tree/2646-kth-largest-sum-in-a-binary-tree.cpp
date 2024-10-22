@@ -17,7 +17,6 @@ public:
             result.insert(lvlSum);
         }
         if(result.size() < k) return -1;
-        
         auto it = result.rbegin();
         advance(it, k - 1); 
         return *it;
