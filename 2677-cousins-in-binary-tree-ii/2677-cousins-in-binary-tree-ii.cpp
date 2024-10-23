@@ -1,39 +1,39 @@
 class Solution {
 public:
     TreeNode* replaceValueInTree(TreeNode* root) {
-        if(!root) return root;
+        if(root == NULL) return root;
         queue<TreeNode*> q;
         q.push(root);
-        root->val = 0;  
-        
+        int levelSum = root->val;
+
         while(!q.empty()) {
-            int size = q.size();
-            vector<TreeNode*> currLevel;
-            int totalSum = 0;
-            
-            for(int i = 0; i < size; i++) {
-                TreeNode* node = q.front();
+            int n = q.size();
+            int nextLevelSum = 0;
+
+            while(n--) {
+                TreeNode* curr = q.front();
                 q.pop();
-                currLevel.push_back(node);
-                if(node->left) {
-                    q.push(node->left);
-                    totalSum += node->left->val;
+
+                curr->val = levelSum - curr->val;
+
+                int siblingSum = (curr->left != NULL ? curr->left->val : 0);
+                siblingSum += (curr->right != NULL ? curr->right->val : 0);
+
+                if(curr->left) {
+                    nextLevelSum += curr->left->val;
+                    curr->left->val = siblingSum;
+                    q.push(curr->left);
                 }
-                if(node->right) {
-                    q.push(node->right);
-                    totalSum += node->right->val;
+
+
+                if(curr->right) {
+                    nextLevelSum += curr->right->val;
+                    curr->right->val = siblingSum;
+                    q.push(curr->right);
                 }
             }
-            for(TreeNode* node : currLevel) {
-                int siblingSum = 0;
-                if(node->left) siblingSum += node->left->val;
-                if(node->right) siblingSum += node->right->val;
-                
-                if(node->left) 
-                    node->left->val = totalSum - siblingSum;
-                if(node->right)
-                    node->right->val = totalSum - siblingSum;
-            }
+
+            levelSum = nextLevelSum;
         }
         return root;
     }
