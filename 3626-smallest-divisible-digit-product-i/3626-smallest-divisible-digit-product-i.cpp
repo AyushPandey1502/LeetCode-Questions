@@ -3,6 +3,7 @@ public:
     int digProd(int num){
         int result = 1;
         while(num > 0){
+            if(result == 0) return 0;
             result *= num % 10;
             num /= 10;
         }
