@@ -360,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0179-largest-number) |
@@ -510,6 +511,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0031-next-permutation) |
@@ -699,6 +701,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0031-next-permutation) |
