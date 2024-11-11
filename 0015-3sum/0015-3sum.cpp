@@ -4,17 +4,22 @@ public:
         vector<vector<int>> result;
         sort(nums.begin(), nums.end());
         int n = nums.size();
+        for (int i = 0; i < n - 2; i++) {
+            if (i > 0 && nums[i] == nums[i - 1]) continue;
 
-        for(int i = 0; i < n; i++){
-            if(i > 0 && nums[i] == nums[i-1]) continue;
-            unordered_set<int> seen;
-            for(int j = i+1; j < n; j++){
-                int comp = -(nums[i] + nums[j]);
-                if(seen.find(comp) != seen.end()){
-                    result.push_back({nums[i], nums[j], comp});
-                    while(j+1 < n && nums[j] == nums[j+1]) j++;
-                }
-                seen.insert(nums[j]);
+            int left = i + 1, right = n - 1;
+            int target = -nums[i];
+            while (left < right) {
+                int sum = nums[left] + nums[right];
+                if (sum == target) {
+                    result.push_back({nums[i], nums[left], nums[right]});
+                    while (left < right && nums[left] == nums[left + 1]) left++;
+                    while (left < right && nums[right] == nums[right - 1]) right--;
+                    left++;
+                    right--;
+                } 
+                else if (sum < target) left++;
+                else right--;
             }
         }
         return result;
