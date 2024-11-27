@@ -358,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2793-count-the-number-of-complete-components](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2793-count-the-number-of-complete-components) |
 | [2803-modify-graph-edge-weights](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Sorting
 |  |
 | ------- |
@@ -491,6 +492,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2662-check-knight-tour-configuration](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2662-check-knight-tour-configuration) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2793-count-the-number-of-complete-components](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2793-count-the-number-of-complete-components) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -658,6 +660,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
 |  |
