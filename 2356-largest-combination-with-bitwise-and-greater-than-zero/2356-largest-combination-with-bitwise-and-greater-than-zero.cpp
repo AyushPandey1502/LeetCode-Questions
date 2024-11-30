@@ -1,16 +1,19 @@
 class Solution {
 public:
     int largestCombination(vector<int>& candidates) {
-        int maxCount = 0;
-        for (int bit = 0; bit < 32; ++bit) {
-            int count = 0;
-            for (int num : candidates) {
-                if (num & (1 << bit)) {
-                    count++;
-                }
+        vector<int> bits(32);
+        for(int i = 0; i < candidates.size(); i++){
+            int temp = 31;
+            while(candidates[i] > 0){
+                bits[temp] += candidates[i] % 2;
+                candidates[i] = candidates[i] / 2;
+                temp--;
             }
-            maxCount = max(maxCount, count);
         }
-        return maxCount;
+        int result = 0;
+		for(int i = 0; i < 32; i++){
+			result = max(result, bits[i]);
+        }
+		return result;
     }
 };
