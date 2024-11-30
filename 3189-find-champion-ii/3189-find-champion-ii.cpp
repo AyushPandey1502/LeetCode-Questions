@@ -1,17 +1,18 @@
 class Solution {
 public:
     int findChampion(int n, vector<vector<int>>& edges) {
-        vector<int> deg(n, 0);
-        for(auto& e: edges){
-            int w=e[1];
-            deg[w]++;
+        vector<vector<int>> adj(n);
+        for(int i=0; i<edges.size(); i++){
+            adj[edges[i][1]].push_back(edges[i][0]);
         }
-        vector<int> deg0;
-        for(int i=0; i<n; i++){
-            if (deg[i]==0)
-                deg0.push_back(i);
+        
+        int result= -1;
+        for(int i = 0; i < n; i++){
+            if(adj[i].size() == 0){
+                if(result != -1) return -1;
+                result = i;
+            }
         }
-        if (deg0.size()!=1) return -1;
-        else return deg0[0];
+        return result;
     }
 };
