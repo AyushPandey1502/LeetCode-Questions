@@ -1,38 +1,23 @@
 class Solution {
 public:
-    vector<vector<string>> result;
+    int count = 0;
 
-    bool isSafe(int row, int col, vector<string>& board) {
-        for(int i = row - 1; i >= 0; i--) {
-            if(board[i][col] == 'Q') return false;
-        }
-        for(int i = row - 1, j = col - 1; i >= 0 && j >= 0; i--, j--) {
-            if(board[i][j] == 'Q') return false;
-        }
-        for(int i = row - 1, j = col + 1; i >= 0 && j < board.size(); i--, j++) {
-            if(board[i][j] == 'Q') return false;
-        }
-        return true;
-    }
-
-    void solveNQueen(int row, int n, vector<string>& board) {
-        if(row == n) {
-            result.push_back(board);
+    void solveNQueens(int row, int n, int cols, int diag1, int diag2) {
+        if (row == n) {
+            count++;
             return;
         }
-        for(int i = 0; i < n; i++) {
-            if(isSafe(row, i, board)) {
-                board[row][i] = 'Q';
-                solveNQueen(row + 1, n, board);
-                board[row][i] = '.';
-            }
+        int avail = ((1 << n) - 1) & ~(cols | diag1 | diag2);
+        while (avail) {
+            int bit = avail & -avail;
+            avail ^= bit; 
+            solveNQueens(row + 1, n, cols | bit, (diag1 | bit) << 1, (diag2 | bit) >> 1);
         }
     }
 
     int totalNQueens(int n) {
-        result.clear();
-        vector<string> board(n, string(n, '.'));
-        solveNQueen(0, n, board);
-        return result.size();
+        count = 0;
+        solveNQueens(0, n, 0, 0, 0);
+        return count;
     }
 };
