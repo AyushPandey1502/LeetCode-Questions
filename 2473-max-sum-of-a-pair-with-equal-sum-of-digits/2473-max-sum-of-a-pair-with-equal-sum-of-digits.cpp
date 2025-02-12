@@ -11,13 +11,13 @@ public:
 
     int maximumSum(vector<int>& nums) {
         int result = -1;
-        unordered_map<int, int> map;
+        vector<int> dig(82, -1);
         for(int i = 0; i < nums.size(); i++){
             int digSum = digitSum(nums[i]);
-            if(map.count(digSum)){
-                result = max(result, nums[i] + map[digSum]);
-                map[digSum] = max(map[digSum], nums[i]);
-            }else map[digSum] = nums[i];
+            if(dig[digSum] != -1){
+                result = max(result, nums[i] + dig[digSum]);
+                dig[digSum] = max(dig[digSum], nums[i]);
+            }else dig[digSum] = nums[i];
         }
         return result;
     }
