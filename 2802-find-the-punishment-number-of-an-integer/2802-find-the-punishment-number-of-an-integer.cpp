@@ -1,32 +1,23 @@
 // TIME COMPLEXITY : O(n * 2^(log(n*n) + 1))
-// SPACE COMPLEXITY : O((log(n*n) + 1) * n)
+// SPACE COMPLEXITY : O(log(n * n))
 
 class Solution {
 public:
-    
-    bool checkWays(string sq, int num, int index, int currSum, vector<vector<int>>& memo) {
-        if (index == sq.size()) return num == currSum;
-        if (currSum > num) return false;
-        
-        if (memo[index][currSum] != -1) return memo[index][currSum];
-        
-        bool flag = false;
-        for (int j = index; j < sq.size(); j++) {
-            string sub = sq.substr(index, j - index + 1);
-            int val = stoi(sub);
-            if (checkWays(sq, num, j + 1, currSum + val, memo)) {
-                return memo[index][currSum] = true;
-            }
+    bool checkWays(int sq, int currSum, int num){
+        if(sq == 0) return currSum == num;
+        int mod = 1;
+        for(int i = 0; i <= 3; i++){
+            mod *= 10;
+            if(checkWays(sq / mod, currSum + (sq % mod), num)) return true;
         }
-        return memo[index][currSum] = false;
-    }
-    
+        return false;
+    } 
+
     int punishmentNumber(int n) {
         int count = 0;
         for (int i = 1; i <= n; i++) {
             int sq = i * i;
-            vector<vector<int>> memo(log(sq)+1, vector<int>(i+1, -1));
-            if (checkWays(to_string(sq), i, 0, 0, memo)) count += sq;
+            if (checkWays(sq, 0, i)) count += sq;
         }
         return count;
     }
