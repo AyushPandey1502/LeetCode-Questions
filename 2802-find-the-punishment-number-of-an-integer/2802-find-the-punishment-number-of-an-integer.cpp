@@ -1,3 +1,6 @@
+// TIME COMPLEXITY : O(n * 2^(log(n*n) + 1))
+// SPACE COMPLEXITY : O((log(n*n) + 1) * n)
+
 class Solution {
 public:
     
