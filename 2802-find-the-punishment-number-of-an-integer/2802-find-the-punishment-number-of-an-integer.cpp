@@ -5,10 +5,10 @@ class Solution {
 public:
     bool checkWays(int sq, int currSum, int num){
         if(sq == 0) return currSum == num;
-        int mod = 1;
+        int mod = 10;
         for(int i = 0; i <= 3; i++){
-            mod *= 10;
             if(checkWays(sq / mod, currSum + (sq % mod), num)) return true;
+            mod *= 10;
         }
         return false;
     } 
