@@ -22,7 +22,7 @@ public:
         int count = 0;
         for (int i = 1; i <= n; i++) {
             int sq = i * i;
-            vector<vector<int>> memo(log(n)+1, vector<int>(i+1, -1));
+            vector<vector<int>> memo(log(sq)+1, vector<int>(i+1, -1));
             if (checkWays(to_string(sq), i, 0, 0, memo)) count += sq;
         }
         return count;
