@@ -1,17 +1,17 @@
-// TIME COMPLEXITY : O(n * 2^(log(n*n) + 1))
-// SPACE COMPLEXITY : O(log(n * n))
-
 class Solution {
 public:
-    bool checkWays(int sq, int currSum, int num){
-        if(sq == 0) return currSum == num;
+    bool checkWays(int sq, int currSum, int num) {
+        if (sq == 0) return currSum == num;
+        if (currSum > num) return false;
+
         int mod = 10;
-        for(int i = 0; i <= 3; i++){
-            if(checkWays(sq / mod, currSum + (sq % mod), num)) return true;
+        while (mod <= sq * 10) { 
+            if (checkWays(sq / mod, currSum + (sq % mod), num)) return true;
             mod *= 10;
         }
+        
         return false;
-    } 
+    }
 
     int punishmentNumber(int n) {
         int count = 0;
