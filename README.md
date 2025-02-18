@@ -455,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0130-surrounded-regions](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0130-surrounded-regions) |
+| [0144-binary-tree-preorder-traversal](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0207-course-schedule) |
@@ -1068,6 +1069,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0155-min-stack) |
 | [0726-number-of-atoms](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0726-number-of-atoms) |
@@ -1094,6 +1096,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -1123,6 +1126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0230-kth-smallest-element-in-a-bst) |
