@@ -1,18 +1,19 @@
 class Solution {
 public:
     string smallestNumber(string pattern) {
+        stack<int> st;
         string result = "";
-        generate(0, 0, pattern, result);
-        reverse(result.begin(), result.end());
-        return result;
-    }
+        int num = 1;
 
-    int generate(int index, int count, string pattern, string& result){
-        if(index != pattern.size()){
-            if(pattern[index] == 'I') generate(index + 1, index + 1, pattern, result);
-            else count = generate(index + 1, count, pattern, result);
+        for (int i = 0; i <= pattern.size(); i++) {
+            st.push(num++);
+            if (i == pattern.size() || pattern[i] == 'I') {
+                while (!st.empty()) {
+                    result += to_string(st.top());
+                    st.pop();
+                }
+            }
         }
-        result += to_string(count + 1);
-        return count + 1;
+        return result;
     }
 };
