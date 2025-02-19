@@ -1,10 +1,10 @@
 class Solution {
 public:
-    set<string> result;
+    vector<string> result;
 
     void generateStrings(string s, int n) {
         if (n == 0) {
-            result.insert(s);
+            result.push_back(s);
             return;
         }
         for (char ch = 'a'; ch <= 'c'; ch++) { 
@@ -16,6 +16,7 @@ public:
     string getHappyString(int n, int k) {
         generateStrings("", n);
         if (result.size() < k) return "";
-        return *next(result.begin(), k - 1); 
+        sort(result.begin(), result.end());
+        return result[k-1];
     }
 };
