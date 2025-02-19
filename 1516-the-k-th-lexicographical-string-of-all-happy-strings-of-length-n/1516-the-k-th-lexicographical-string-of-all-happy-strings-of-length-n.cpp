@@ -1,22 +1,22 @@
 class Solution {
 public:
-    vector<string> result;
-
-    void generateStrings(string s, int n) {
+    void generateStrings(string s, int n, int k, int& index, string& result) {
         if (n == 0) {
-            result.push_back(s);
+            index++;
+            if (index == k) result = s;
             return;
         }
         for (char ch = 'a'; ch <= 'c'; ch++) { 
             if (!s.empty() && s.back() == ch) continue;
-            generateStrings(s + ch, n - 1);
+            generateStrings(s + ch, n - 1, k, index, result);
+            if (!result.empty()) return; 
         }
     }
 
     string getHappyString(int n, int k) {
-        generateStrings("", n);
-        if (result.size() < k) return "";
-        sort(result.begin(), result.end());
-        return result[k-1];
+        string result;
+        int index = 0;
+        generateStrings("", n, k, index, result);
+        return result;
     }
 };
