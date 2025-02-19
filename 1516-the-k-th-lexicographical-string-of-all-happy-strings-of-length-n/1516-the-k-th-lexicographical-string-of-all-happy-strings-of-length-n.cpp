@@ -8,7 +8,7 @@ public:
             return;
         }
         for (char ch = 'a'; ch <= 'c'; ch++) { 
-            if (!s.empty() && s.back() == ch) continue; 
+            if (!s.empty() && s.back() == ch) continue;
             generateStrings(s + ch, n - 1);
         }
     }
@@ -16,8 +16,6 @@ public:
     string getHappyString(int n, int k) {
         generateStrings("", n);
         if (result.size() < k) return "";
-        auto it = result.begin();
-        advance(it, k - 1); 
-        return *it;
+        return *next(result.begin(), k - 1); 
     }
 };
