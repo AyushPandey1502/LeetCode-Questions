@@ -1,39 +1,18 @@
-// PREORDER, INORDER AND POSTORDER USING SINGLE STACK
-// TIME COMPLEXITY : O(3N)
-// SPACE COMPLEXITY : O(3N)
 class Solution {
 public:
     vector<int> postorderTraversal(TreeNode* root) {
-        vector<int> preorder, inorder, postorder;
-        stack<pair<TreeNode*, int>> stack;
-        stack.push({root, 1});
-        if (root == NULL)
-            return postorder;
-        while (!stack.empty()) {
-            auto it = stack.top();
-            stack.pop();
-
-            // PREORDER
-            if (it.second == 1) {
-                preorder.push_back(it.first->val);
-                it.second++;
-                stack.push(it);
-                if (it.first->left != NULL)
-                    stack.push({it.first->left, 1});
-            }
-            // INORDER
-            else if (it.second == 2) {
-                inorder.push_back(it.first->val);
-                it.second++;
-                stack.push(it);
-                if (it.first->right != NULL)
-                    stack.push({it.first->right, 1});
-            }
-            // POSTORDER
-            else {
-                postorder.push_back(it.first->val);
-            }
+        vector<int> result;
+        if(root == nullptr) return result;
+        stack<TreeNode*> st;
+        st.push(root);
+        while(!st.empty()){
+            TreeNode* node = st.top();
+            st.pop();
+            result.push_back(node->val);
+            if(node->left) st.push(node->left);
+            if(node->right) st.push(node->right);
         }
-        return postorder;
+        reverse(result.begin(), result.end());
+        return result;
     }
 };
