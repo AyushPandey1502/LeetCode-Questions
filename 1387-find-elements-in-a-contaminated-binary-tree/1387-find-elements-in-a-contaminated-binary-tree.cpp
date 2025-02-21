@@ -1,35 +1,21 @@
 class FindElements {
+private:
+    unordered_set<int> values;
+
+    void recoverTree(TreeNode* node, int val) {
+        if (!node) return;
+        node->val = val;
+        values.insert(val);
+        recoverTree(node->left, 2 * val + 1);
+        recoverTree(node->right, 2 * val + 2);
+    }
+
 public:
-    TreeNode* root;
-
     FindElements(TreeNode* root) {
-        this->root = root;
-        root->val = 0;
-        recoverTree(root);
-    }
-
-    void recoverTree(TreeNode* node) {
-        if (node) {
-            if (node->left) {
-                node->left->val = 2 * node->val + 1;
-                recoverTree(node->left);
-            }
-            if (node->right) {
-                node->right->val = 2 * node->val + 2;
-                recoverTree(node->right);
-            }
-        }
-    }
-
-    bool findElement(TreeNode* node, int x) {
-        if (node) {
-            if (node->val == x) return true;
-            return findElement(node->left, x) || findElement(node->right, x);
-        }
-        return false;
+        if (root) recoverTree(root, 0);
     }
 
     bool find(int target) {
-        return findElement(root, target);
+        return values.count(target);
     }
 };
