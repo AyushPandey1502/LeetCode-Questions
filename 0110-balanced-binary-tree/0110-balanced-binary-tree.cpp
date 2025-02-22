@@ -1,16 +1,19 @@
 class Solution {
 public:
-    int checkBalance(TreeNode* root){
-        if(root == nullptr) return 0;
-        int leftHt = checkBalance(root -> left);
-        if(leftHt == -1) return -1;
-        int rightHt = checkBalance(root -> right);
-        if(rightHt == -1) return -1;
-
-        if(abs(leftHt - rightHt) > 1) return -1;
-        return 1 + max(leftHt, rightHt);
+    int findDepth(TreeNode* root) {
+        if (root == nullptr)
+            return 0;
+        return 1 + max(findDepth(root->left), findDepth(root->right));
     }
+
     bool isBalanced(TreeNode* root) {
-        return checkBalance(root) != -1;
+        if (root == nullptr)
+            return true;
+        int lst = findDepth(root->left);
+        int rst = findDepth(root->right);
+
+        if (abs(lst - rst) > 1)
+            return false;
+        return isBalanced(root->left) && isBalanced(root->right);
     }
 };
