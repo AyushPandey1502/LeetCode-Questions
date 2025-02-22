@@ -452,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -501,6 +502,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0127-word-ladder) |
@@ -1108,6 +1110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0110-balanced-binary-tree) |
@@ -1143,6 +1146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0110-balanced-binary-tree) |
