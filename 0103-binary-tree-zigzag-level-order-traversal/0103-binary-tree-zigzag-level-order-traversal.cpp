@@ -1,33 +1,25 @@
-// TIME COMPLEXITY : O(N)
-// SPACE COMPLEXITY : O(N)
-
 class Solution {
 public:
     vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
         vector<vector<int>> result;
-        if(root == NULL) return result;
+        if (root == nullptr) return result;
+        queue<TreeNode*> q;
+        q.push(root);
+        int flag = 1;
 
-        queue<TreeNode*> nodesQueue;
-        nodesQueue.push(root);
-        bool leftToRight = true;
-
-        while(!nodesQueue.empty()){
-            int size = nodesQueue.size();
-            vector<int> row(size);
-
-            for(int i = 0; i < size; i++){
-                TreeNode* node = nodesQueue.front();
-                nodesQueue.pop();
-
-                int index = leftToRight ? i : (size - i - 1);
-                row[index] = node->val;
-
-                if(node->left != NULL) nodesQueue.push(node->left);
-                if(node->right != NULL) nodesQueue.push(node->right);
+        while (!q.empty()) {
+            int size = q.size();
+            vector<int> level;
+            for (int i = 0; i < size; i++) {
+                auto node = q.front();
+                q.pop();
+                level.push_back(node->val);
+                if (node->left) q.push(node->left);
+                if (node->right) q.push(node->right);
             }
-
-            result.push_back(row);
-            leftToRight = !leftToRight;
+            if (!flag) reverse(level.begin(), level.end());
+            result.push_back(level);
+            flag = !flag;
         }
         return result;
     }
