@@ -1,52 +1,52 @@
 class Solution {
 public:
     int result;
-    unordered_map<int, vector<int>> adj;
-    unordered_map<int, int> bobMap;
+    vector<vector<int>> adj;
+    vector<int> bobMap; 
 
     bool dfsBob(int node, int time, vector<int>& visited) {
         visited[node] = true;
         bobMap[node] = time;
         if (node == 0) return true;
 
-        for (auto it : adj[node]) {
-            if (!visited[it]) {
-                if (dfsBob(it, time + 1, visited) == true) return true;
+        for (int neighbor : adj[node]) {
+            if (!visited[neighbor]) {
+                if (dfsBob(neighbor, time + 1, visited)) return true;
             }
         }
-        bobMap.erase(node);
-        visited[node] = false;
+        bobMap[node] = -1;
         return false;
     }
 
-    void dfsAlice(int node, int time, vector<int>& visited, int amt, vector<int>& amount) {
+    void dfsAlice(int node, int time, int amt, vector<int>& visited, vector<int>& amount) {
         visited[node] = true;
-        if (bobMap.count(node) == 0 || time < bobMap[node]) amt += amount[node];
+        if (bobMap[node] == -1 || time < bobMap[node]) amt += amount[node]; 
         else if (time == bobMap[node]) amt += amount[node] / 2;
-        
-        if (adj[node].size() == 1 && node != 0) result = max(result, amt);
 
-        for (auto it : adj[node]) {
-            if (!visited[it]) {
-                dfsAlice(it, time + 1, visited, amt, amount);
+        bool isLeaf = true;
+        for (int neighbor : adj[node]) {
+            if (!visited[neighbor]) {
+                isLeaf = false;
+                dfsAlice(neighbor, time + 1, amt, visited, amount);
             }
         }
-        visited[node] = false;
+        if (isLeaf) result = max(result, amt);
     }
 
     int mostProfitablePath(vector<vector<int>>& edges, int bob, vector<int>& amount) {
         int n = amount.size();
+        adj.assign(n, vector<int>());
+        bobMap.assign(n, -1); 
         vector<int> visited(n, false);
-        
-        for (auto it : edges) {
-            adj[it[0]].push_back(it[1]);
-            adj[it[1]].push_back(it[0]);
+        for (auto& edge : edges) {
+            adj[edge[0]].push_back(edge[1]);
+            adj[edge[1]].push_back(edge[0]);
         }
-
         dfsBob(bob, 0, visited);
         visited.assign(n, false);
         result = INT_MIN;
-        dfsAlice(0, 0, visited, 0, amount);
+        dfsAlice(0, 0, 0, visited, amount);
+        
         return result;
     }
 };
