@@ -1,23 +1,6 @@
 class Solution {
 public:
-    vector<int> primes;
-
-    void sieve() {
-        vector<bool> is_prime(1e5 + 1, true);
-        is_prime[0] = is_prime[1] = false;
-        for (int i = 2; i * i <= 1e5; i++) {
-            if (is_prime[i]) {
-                for (int p = i * i; p <= 1e5; p += i) {
-                    is_prime[p] = false;
-                }
-            }
-        }
-        for (int i = 2; i <= 1e5; i++) {
-            if (is_prime[i]) primes.push_back(i);
-        }
-    }
-
-    vector<int> findDivisors(int num) {
+    int sumDivisorsIfFour(int num) {
         vector<int> divisors;
         for (int i = 1; i * i <= num; i++) {
             if (num % i == 0) {
@@ -26,19 +9,19 @@ public:
                     divisors.push_back(num / i);
                 }
             }
+            if (divisors.size() > 4) return 0;
         }
-        return divisors;
+        
+        if (divisors.size() == 4) {
+            return divisors[0] + divisors[1] + divisors[2] + divisors[3];
+        }
+        return 0;
     }
 
     int sumFourDivisors(vector<int>& nums) {
         int result = 0;
-        sieve();
-        
         for (int num : nums) {
-            vector<int> divisors = findDivisors(num);
-            if (divisors.size() == 4) {
-                result += accumulate(divisors.begin(), divisors.end(), 0);
-            }
+            result += sumDivisorsIfFour(num);
         }
         return result;
     }
