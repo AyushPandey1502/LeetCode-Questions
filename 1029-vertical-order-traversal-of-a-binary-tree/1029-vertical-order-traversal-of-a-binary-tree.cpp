@@ -1,21 +1,18 @@
 class Solution {
 public:
+    map<int, map<int, multiset<int>>> nodes;
+
+    void dfs(TreeNode* root, int x, int y){
+        if(root == nullptr) return;
+        nodes[x][y].insert(root->val);
+        dfs(root->left, x-1, y+1);
+        dfs(root->right, x+1, y+1);
+    }
+
     vector<vector<int>> verticalTraversal(TreeNode* root) {
         vector<vector<int>> result;
         if(root == nullptr) return result;
-        queue<pair<TreeNode*, vector<int>>> q;
-        q.push({root, {0, 0}});
-        map<int, map<int, multiset<int>>> nodes;
-
-        while(!q.empty()){
-            TreeNode* node = q.front().first;
-            int x = q.front().second[0];
-            int y = q.front().second[1];
-            q.pop();
-            nodes[x][y].insert(node->val);
-            if(node->left) q.push({node->left, {x-1, y+1}});
-            if(node->right) q.push({node->right, {x+1, y+1}});
-        } 
+        dfs(root, 0, 0);
 
         for(auto x : nodes){
             vector<int> temp;
