@@ -16,7 +16,9 @@ public:
 
         for(auto x : nodes){
             vector<int> temp;
-            for(auto y : x.second) temp.insert(temp.end(), y.second.begin(), y.second.end());
+            for(auto y : x.second){
+                temp.insert(temp.end(), y.second.begin(), y.second.end());
+            }
             result.push_back(temp);
         }
         return result;
