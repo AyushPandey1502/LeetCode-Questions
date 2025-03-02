@@ -625,6 +625,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0733-flood-fill) |
+| [0747-min-cost-climbing-stairs](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0787-sliding-puzzle) |
 | [0859-design-circular-deque](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0859-design-circular-deque) |
@@ -1325,6 +1326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0650-2-keys-keyboard](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0664-strange-printer) |
+| [0747-min-cost-climbing-stairs](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1170-shortest-common-supersequence) |
