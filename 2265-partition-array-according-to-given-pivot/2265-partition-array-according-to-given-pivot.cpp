@@ -2,18 +2,13 @@ class Solution {
 public:
     vector<int> pivotArray(vector<int>& nums, int pivot) {
         int n = nums.size();
-        int less = 0, equal = 0;
-        for(int i = 0; i < n; i++){
-            if(nums[i] < pivot) less++;
-            else if(nums[i] == pivot) equal++;
-        }
-        int ls = 0, eq = less, gr = less + equal;
+        int ls = 0, gr = n-1;
         vector<int> result(n);
-        for(int i = 0; i < n; i++){
+        for(int i = 0, j = n-1; i < n; i++, j--){
             if(nums[i] < pivot) result[ls++] = nums[i];
-            else if(nums[i] == pivot) result[eq++] = nums[i];
-            else result[gr++] = nums[i]; 
+            if(nums[j] > pivot) result[gr--] = nums[j];
         }
+        while(ls <= gr) result[ls++] = pivot;
         return result;
     }
 };
