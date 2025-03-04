@@ -2,10 +2,11 @@ class Solution {
 public:
     int cherryPickup(vector<vector<int>>& grid) {
         int m = grid.size(), n = grid[0].size();
-        vector<vector<vector<int>>> dp(m, vector<vector<int>>(n, vector<int>(n, 0)));
+        vector<vector<int>> dp(n, vector<int>(n, 0)), temp(n, vector<int>(n, 0));
+
         for(int i = 0; i < n; i++){
             for(int j = 0; j < n; j++){
-                dp[m-1][i][j] = (i == j ? grid[m-1][i] : grid[m-1][i] + grid[m-1][j]);
+                dp[i][j] = (i == j ? grid[m-1][i] : grid[m-1][i] + grid[m-1][j]);
             }
         }
 
@@ -19,14 +20,15 @@ public:
                             if(ncol1 >= 0 && ncol1 < n && ncol2 >= 0 && ncol2 < n){
                                 int val = grid[i][j1];
                                 if (j1 != j2) val += grid[i][j2];
-                                result = max(result, val + dp[i+1][ncol1][ncol2]);
+                                result = max(result, val + dp[ncol1][ncol2]);
                             }
                         }
                     }
-                    dp[i][j1][j2] = result; 
+                    temp[j1][j2] = result;  
                 }
             }
+            dp = temp; 
         }
-        return dp[0][0][n-1];
+        return dp[0][n-1];
     }
 };
