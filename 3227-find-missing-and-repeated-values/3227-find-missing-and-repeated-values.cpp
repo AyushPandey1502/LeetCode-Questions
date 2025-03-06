@@ -2,24 +2,14 @@ class Solution {
 public:
     vector<int> findMissingAndRepeatedValues(vector<vector<int>>& grid) {
         int n = grid.size();
-        int XOR = 0;
-        for (int i = 0; i < n * n; i++) {
-            XOR ^= (i + 1); 
-            XOR ^= grid[i / n][i % n]; 
+        int num1 = -1, num2 = -1;
+        unordered_map<int, int> freq;
+        for(int i = 0; i < n; i++){
+            for(int j = 0; j < n; j++) freq[grid[i][j]]++;
         }
-        int maskBit = XOR & -XOR;
-        int num1 = 0, num2 = 0;
-        for (int i = 0; i < n * n; i++) {
-            int val = grid[i / n][i % n];
-            if (val & maskBit) num1 ^= val;
-            else num2 ^= val;
-        }
-        for (int i = 1; i <= n * n; i++) {
-            if (i & maskBit) num1 ^= i;
-            else num2 ^= i;
-        }
-        for (int i = 0; i < n * n; i++) {
-            if (grid[i / n][i % n] == num1) return {num1, num2};
+        for(int i = 1; i <= n*n; i++){
+            if(!freq.count(i)) num1 = i;
+            if(freq[i] == 2) num2 = i;
         }
         return {num2, num1};
     }
