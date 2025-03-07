@@ -1,6 +1,9 @@
 class Solution {
 public:
     unordered_set<int> primes;
+     Solution() { 
+        sieve();
+    }
     void sieve(){
         vector<bool> is_prime(1e6+1, true);
         for(int i = 2; i * i <= 1e6; i++){
@@ -15,7 +18,6 @@ public:
 
     vector<int> closestPrimes(int left, int right) {
         vector<int> range;
-        sieve();
         for(int i = left; i <= right; i++){
             if(primes.find(i) != primes.end()) range.push_back(i);
         }
