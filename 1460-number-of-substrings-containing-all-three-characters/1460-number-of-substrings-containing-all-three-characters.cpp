@@ -1,16 +1,17 @@
 class Solution {
 public:
     int numberOfSubstrings(string s) {
-        int n = s.size(), count = 0;
-        int a = -1, b = -1, c = -1;
-        for(int i = 0; i < n; i++) {
-            if(s[i] == 'a') a = i;
-            else if(s[i] == 'b') b = i;
-            else c = i;
-            int minIndex = min({a, b, c});
-            if(minIndex != -1){
-                count += minIndex + 1;
+        int count = 0;
+        unordered_map<char, int> map;
+        int left = 0, right = 0, n = s.size();
+        while(right < n){
+            map[s[right]]++;
+            while(left < right && map.size() == 3){
+                count += n - right;
+                if(--map[s[left]] == 0) map.erase(s[left]);
+                left++;
             }
+            right++;
         }
         return count;
     }
