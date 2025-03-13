@@ -9,10 +9,7 @@ public:
             for (int j = i; j < s.size(); j++) {
                 if (vowels.find(s[j]) != string::npos) vow++;
                 else cons++;
-
-                if (vow == cons && (vow * cons) % k == 0) {
-                    result++;
-                }
+                if (vow == cons && (vow * cons) % k == 0) result++;
             }
         }
         return result;
