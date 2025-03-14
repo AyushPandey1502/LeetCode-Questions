@@ -2,6 +2,7 @@ class Solution {
 public:
     int minEatingSpeed(vector<int>& piles, int h) {
         int n = piles.size(), result = 0;
+        if(n > h) return 0;
         int left = 1, right = *max_element(piles.begin(), piles.end());
 
         auto check = [&](int mid){
