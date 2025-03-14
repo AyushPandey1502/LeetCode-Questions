@@ -708,6 +708,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1972-rotating-the-box](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1972-rotating-the-box) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2027-maximum-number-of-removable-characters](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2027-maximum-number-of-removable-characters) |
 | [2035-count-sub-islands](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2035-count-sub-islands) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -882,6 +883,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1972-rotating-the-box) |
+| [2027-maximum-number-of-removable-characters](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2027-maximum-number-of-removable-characters) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -916,6 +918,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2027-maximum-number-of-removable-characters](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2027-maximum-number-of-removable-characters) |
 | [2164-two-best-non-overlapping-events](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -1110,6 +1113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1818-maximum-score-from-removing-substrings](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1923-sentence-similarity-iii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2027-maximum-number-of-removable-characters](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2027-maximum-number-of-removable-characters) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2107-find-unique-binary-string) |
