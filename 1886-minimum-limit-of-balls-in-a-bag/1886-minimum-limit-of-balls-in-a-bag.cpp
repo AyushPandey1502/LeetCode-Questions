@@ -6,7 +6,7 @@ public:
         auto check = [&](int mid) {
             int count = 0;
             for (int num : nums) {
-                count += (num - 1) / mid;
+                count += (num + mid - 1) / mid - 1;
                 if (count > maxOperations) return false;
             }
             return count <= maxOperations;
