@@ -332,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2089-maximum-matrix-sum](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2154-minimum-moves-to-convert-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2154-minimum-moves-to-convert-string) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2310-minimum-operations-to-halve-array-sum) |
