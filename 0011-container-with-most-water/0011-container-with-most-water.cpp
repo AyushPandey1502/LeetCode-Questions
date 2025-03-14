@@ -4,7 +4,7 @@ public:
         int n = height.size(), result = 0;
         int left = 0, right = n-1; 
 
-        while(left <= right){
+        while(left < right){
             int len = min(height[left], height[right]);
             int width = right - left;
             result = max(result, len * width);
