@@ -642,6 +642,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0906-walking-robot-simulation) |
+| [0907-koko-eating-bananas](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0921-spiral-matrix-iii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0948-sort-an-array) |
@@ -900,6 +901,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0907-koko-eating-bananas](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
