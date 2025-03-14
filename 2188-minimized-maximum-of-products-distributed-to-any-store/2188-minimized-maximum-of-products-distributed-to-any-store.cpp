@@ -1,19 +1,21 @@
 class Solution {
 public:
-    bool isPossible(int x, vector<int>& quantities, int n) {
-        double sum = 0;
-        for (auto u : quantities)
-            sum += ceil(u * 1.0 / x * 1.0);
-        return sum > n;
-    }
     int minimizedMaximum(int n, vector<int>& quantities) {
-        int left = 1, right = 100000;
-        while (left < right) {
-            int mid = (left + right) / 2;
-            if (isPossible(mid, quantities, n))
+        int left = 1, right = *max_element(quantities.begin(), quantities.end());
+        
+        auto check = [&](int mid) {
+            int count = 0;
+            for (int q : quantities) count += (q + mid - 1) / mid;
+            return count <= n;
+        };
+        
+        while (left <= right) {
+            int mid = left + (right - left) / 2;
+            if (check(mid)) {
+                right = mid - 1;
+            } else {
                 left = mid + 1;
-            else
-                right = mid;
+            }
         }
         return left;
     }
