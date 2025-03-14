@@ -339,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2379-maximum-total-importance-of-roads](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2379-maximum-total-importance-of-roads) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2530-minimize-maximum-of-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2530-minimize-maximum-of-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2716-prime-subtraction-operation) |
@@ -741,6 +742,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2530-minimize-maximum-of-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2530-minimize-maximum-of-array) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2551-apply-operations-to-an-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -925,6 +927,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2179-most-beautiful-item-for-each-query](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2294-minimum-time-to-complete-trips](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2294-minimum-time-to-complete-trips) |
+| [2530-minimize-maximum-of-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2530-minimize-maximum-of-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -1065,6 +1068,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1940-maximum-xor-for-each-query](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2530-minimize-maximum-of-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2530-minimize-maximum-of-array) |
 | [3208-count-beautiful-substrings-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3208-count-beautiful-substrings-ii) |
 | [3210-count-beautiful-substrings-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3210-count-beautiful-substrings-i) |
 | [3427-special-array-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3427-special-array-ii) |
@@ -1421,6 +1425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2164-two-best-non-overlapping-events](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2164-two-best-non-overlapping-events) |
 | [2187-vowels-of-all-substrings](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2187-vowels-of-all-substrings) |
+| [2530-minimize-maximum-of-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2530-minimize-maximum-of-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2755-extra-characters-in-a-string) |
