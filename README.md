@@ -799,6 +799,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3643-zero-array-transformation-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3643-zero-array-transformation-ii) |
+| [3799-unique-3-digit-even-numbers](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3799-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -884,6 +885,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3799-unique-3-digit-even-numbers](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3799-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1072,6 +1074,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2050-count-good-numbers) |
+| [3799-unique-3-digit-even-numbers](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3799-unique-3-digit-even-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1550,6 +1553,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3210-count-beautiful-substrings-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3210-count-beautiful-substrings-i) |
 | [3314-most-frequent-prime](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3314-most-frequent-prime) |
+| [3799-unique-3-digit-even-numbers](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3799-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
