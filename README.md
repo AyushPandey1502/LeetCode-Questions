@@ -424,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3430-count-days-without-meetings](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3430-count-days-without-meetings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -791,6 +792,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3427-special-array-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3427-special-array-ii) |
+| [3430-count-days-without-meetings](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3463-alternating-groups-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3463-alternating-groups-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
