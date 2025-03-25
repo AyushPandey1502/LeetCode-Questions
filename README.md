@@ -1150,6 +1150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1508-longest-happy-prefix](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1508-longest-happy-prefix) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -1635,16 +1636,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0214-shortest-palindrome) |
+| [1508-longest-happy-prefix](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1508-longest-happy-prefix) |
 ## String Matching
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0812-rotate-string) |
+| [1508-longest-happy-prefix](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1508-longest-happy-prefix) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0214-shortest-palindrome) |
+| [1508-longest-happy-prefix](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1508-longest-happy-prefix) |
 ## Segment Tree
 |  |
 | ------- |
