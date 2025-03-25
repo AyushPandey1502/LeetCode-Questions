@@ -10,12 +10,12 @@ public:
             if(it) pq.push(it);
         }
         ListNode* head = new ListNode(-1);
-        ListNode* dummy = head;
+        ListNode* tail = head;
         while(!pq.empty()){
             auto node = pq.top();
             pq.pop();
-            dummy->next = node;
-            dummy = dummy->next;
+            tail->next = node;
+            tail = tail->next;
             if(node->next) pq.push(node->next);
         }
         return head->next;
