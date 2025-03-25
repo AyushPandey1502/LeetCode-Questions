@@ -1,16 +1,15 @@
 class Solution {
 public:
+    ListNode* curr;
     bool isPalindrome(ListNode* head) {
-        vector<int> vals;
-        while(head){
-            vals.push_back(head->val);
-            head = head->next;
-        }
-        int left = 0, right = vals.size() - 1;
-        while(left <= right && vals[left] == vals[right]){
-            left++;
-            right--;
-        }
-        return left >= right;
+        curr = head;
+        return check(head);
+    }
+
+    bool check(ListNode* head){
+        if(head == nullptr) return true;
+        bool result = check(head->next) && head->val == curr->val;
+        curr = curr->next;
+        return result;
     }
 };
