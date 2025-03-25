@@ -429,6 +429,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
@@ -1022,6 +1023,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0725-split-linked-list-in-parts) |
@@ -1374,6 +1376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -1385,6 +1388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0948-sort-an-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
