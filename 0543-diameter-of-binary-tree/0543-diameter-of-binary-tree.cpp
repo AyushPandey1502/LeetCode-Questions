@@ -1,21 +1,17 @@
 class Solution {
 public:
     int diameterOfBinaryTree(TreeNode* root) {
-        int diameter = 0;
-        calculateDiameter(root, diameter);
-        return diameter;
+        if(root == nullptr) return 0;
+        int result = 0;
+        calculateDiameter(root, result);
+        return result;
     }
 
-private:
-    int calculateDiameter(TreeNode* node, int& diameter) {
-        if (!node) {
-            return 0;
-        }
-
-        int leftHeight = calculateDiameter(node->left, diameter);
-        int rightHeight = calculateDiameter(node->right, diameter);
-
-        diameter = max(diameter, leftHeight + rightHeight);
-        return 1 + max(leftHeight, rightHeight);
+    int calculateDiameter(TreeNode* root, int& result){
+        if(root == nullptr) return 0;
+        int lst = calculateDiameter(root->left, result);
+        int rst = calculateDiameter(root->right, result);
+        result = max(result, lst + rst);
+        return 1 + max(lst, rst);
     }
 };
