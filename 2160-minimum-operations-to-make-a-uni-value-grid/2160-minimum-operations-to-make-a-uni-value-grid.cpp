@@ -8,11 +8,11 @@ public:
             }
         }
         sort(nums.begin(), nums.end());
-        int median = nums[nums.size() / 2], ops = 0;
+        int median = nums[nums.size() / 2], result = 0;
         for (int num : nums) {
             if ((num - median) % x != 0) return -1;
-            ops += abs(num - median) / x;
+            result += abs(num - median) / x;
         }
-        return ops;
+        return result;
     }
 };
