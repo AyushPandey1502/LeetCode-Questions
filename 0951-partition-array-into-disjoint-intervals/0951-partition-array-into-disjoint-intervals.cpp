@@ -9,10 +9,10 @@ public:
             else suffix[n-i-1] = min(nums[n-i-1], suffix[n-i]); 
         }
 
-        int maxLeft = nums[0];
-        for (int i = 1; i < n; i++) {
-            maxLeft = max(maxLeft, nums[i-1]);
-            if (maxLeft <= suffix[i]) return i;
+        int maxLeft = -1;
+        for (int i = 0; i < n-1; i++) {
+            maxLeft = max(maxLeft, nums[i]);
+            if (maxLeft <= suffix[i+1]) return i+1;
         }
 
         return -1; 
