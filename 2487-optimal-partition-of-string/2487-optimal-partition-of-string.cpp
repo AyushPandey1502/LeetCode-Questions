@@ -1,19 +1,16 @@
 class Solution {
 public:
     int partitionString(string s) {
-        int n = s.size(), result = 0;
-        int right = 0;
-        vector<int> freq(26, 0);
-        
-        while (right < n) {
-            if (++freq[s[right] - 'a'] >= 2) {
+        int n = s.size(), result = 1;
+        int flag = 0;
+        for(int i = 0; i < n; i++){
+            int val = s[i] - 'a';
+            if(flag & (1 << val)){
                 result++;
-                fill(freq.begin(), freq.end(), 0);
-                freq[s[right] - 'a'] = 1;  
+                flag = 0;
             }
-            right++;
-        }
-        
-        return result + 1;
+            flag = flag | (1 << val);
+        }        
+        return result;
     }
 };
