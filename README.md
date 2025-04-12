@@ -917,6 +917,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3548-find-the-count-of-good-integers](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -1056,6 +1057,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3243-count-the-number-of-powerful-integers](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3314-most-frequent-prime](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3314-most-frequent-prime) |
 | [3336-water-bottles-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3336-water-bottles-ii) |
+| [3548-find-the-count-of-good-integers](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3548-find-the-count-of-good-integers) |
 ## Linked List
 |  |
 | ------- |
@@ -1622,6 +1624,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3210-count-beautiful-substrings-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3210-count-beautiful-substrings-i) |
 | [3314-most-frequent-prime](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3314-most-frequent-prime) |
+| [3548-find-the-count-of-good-integers](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3548-find-the-count-of-good-integers) |
 | [3799-unique-3-digit-even-numbers](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3799-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
@@ -1741,6 +1744,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0062-unique-paths](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0062-unique-paths) |
 | [2187-vowels-of-all-substrings](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2187-vowels-of-all-substrings) |
+| [3548-find-the-count-of-good-integers](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3548-find-the-count-of-good-integers) |
 ## Geometry
 |  |
 | ------- |
