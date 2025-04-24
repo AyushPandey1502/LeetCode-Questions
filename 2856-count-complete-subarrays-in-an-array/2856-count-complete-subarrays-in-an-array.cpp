@@ -6,11 +6,15 @@ public:
         int count = set.size();
 
         int result = 0;
-        for (int i = 0; i < n; ++i) {
-            unordered_set<int> temp;
-            for (int j = i; j < n; ++j) {
-                temp.insert(nums[j]);
-                if (temp.size() == count) result++;
+        unordered_map<int, int> freq;
+        int left = 0;
+
+        for (int right = 0; right < n; right++) {
+            freq[nums[right]]++;
+            while (freq.size() == count) {
+                result += n - right; 
+                if(--freq[nums[left]] == 0) freq.erase(nums[left]);
+                left++;
             }
         }
         return result;
