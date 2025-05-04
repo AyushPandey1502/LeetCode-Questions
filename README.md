@@ -697,6 +697,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1171-shortest-path-in-binary-matrix](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1196-filling-bookcase-shelves](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1207-delete-nodes-and-return-forest) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1240-stone-game-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1284-four-divisors](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1284-four-divisors) |
@@ -886,6 +887,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1160-letter-tile-possibilities](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1160-letter-tile-possibilities) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -1495,6 +1497,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0948-sort-an-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1160-letter-tile-possibilities) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1364-tuple-with-same-product) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1786-count-the-number-of-consistent-strings) |
