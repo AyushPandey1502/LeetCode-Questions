@@ -1,6 +1,7 @@
 // OPTIMAL APPROACH : DUTCH NATIONAL FLAG ALGORITHM
 // TIME COMPLEXITY: O(N)
 // SPACE COMPLEXITY: O(1)
+
 class Solution {
 public:
     void sortColors(vector<int>& nums) {
@@ -11,9 +12,8 @@ public:
                 swap(nums[low], nums[mid]);
                 low++;
                 mid++;
-            }else if(nums[mid] == 1){
-                mid++;
-            }else{
+            }else if(nums[mid] == 1) mid++;
+            else{
                 swap(nums[mid], nums[high]);
                 high--;
             }
