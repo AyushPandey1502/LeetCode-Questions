@@ -2,7 +2,7 @@ class Solution {
 public:
     int maxRemoval(vector<int>& nums, vector<vector<int>>& queries) {
         sort(queries.begin(), queries.end(),[](const vector<int>& a, const vector<int>& b){
-                 return a[0] < b[0];
+            return a[0] < b[0];
         });
 
         priority_queue<int> hp;
