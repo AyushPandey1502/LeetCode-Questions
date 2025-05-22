@@ -15,7 +15,7 @@ public:
                 j++;
             }
             while (op < nums[i] && !hp.empty() && hp.top() >= i) {
-                op += 1;
+                op++;
                 arr[hp.top() + 1]--;
                 hp.pop();
             }
