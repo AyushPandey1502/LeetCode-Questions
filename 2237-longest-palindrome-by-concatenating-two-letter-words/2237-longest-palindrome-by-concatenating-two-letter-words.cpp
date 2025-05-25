@@ -2,20 +2,26 @@ class Solution {
 public:
     int longestPalindrome(vector<string>& words) {
         unordered_map<string, int> map;
-        int result = 0;
-        for(auto word : words){
-            string wordRev = word;
-            reverse(wordRev.begin(), wordRev.end());
-            if(map[wordRev] > 0){
-                map[wordRev]--;
-                result += 4;
-            }else{
-                map[word]++;
+        int n = words.size();
+        bool flag = true;
+        int count = 0;
+        for (string s : words) map[s]++;
+        for (int i = 0; i < n; i++) {
+            if (map[words[i]]) {
+                if (words[i][1] == words[i][0]) {
+                    count += (map[words[i]] / 2) * 4;
+                    if (map[words[i]] % 2 == 1) flag = false;
+                } else {
+                    string temp = "";
+                    temp += words[i][1];
+                    temp += words[i][0];
+                    count += min(map[words[i]], map[temp]) * 4;
+                    map[temp] = 0;
+                }
+                map[words[i]] = 0;
             }
         }
-        for(auto it : map){
-            if(it.first[0] == it.first[1] && it.second > 0) return result + 2;
-        }
-        return result;
+        if (!flag) count += 2;
+        return count;
     }
 };
