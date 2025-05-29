@@ -545,6 +545,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3058-maximum-number-of-k-divisible-components](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -597,6 +598,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -1429,6 +1431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
 |  |
 | ------- |
