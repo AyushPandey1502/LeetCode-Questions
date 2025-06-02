@@ -315,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0624-maximum-distance-in-arrays](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0624-maximum-distance-in-arrays) |
@@ -660,6 +661,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0174-dungeon-game) |
