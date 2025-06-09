@@ -5,7 +5,6 @@ public:
         --k; 
         while (k > 0) {
             long stepCount = calculateSteps(currentNumber, n);
-            
             if (stepCount <= k) {
                 currentNumber++;
                 k -= stepCount;
