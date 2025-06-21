@@ -362,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3647-zero-array-transformation-iii) |
 ## Graph
@@ -457,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3321-type-of-triangle) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3430-count-days-without-meetings) |
 | [3647-zero-array-transformation-iii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -993,6 +995,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3314-most-frequent-prime](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3314-most-frequent-prime) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -1344,6 +1347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3451-string-compression-iii) |
@@ -1614,6 +1618,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3314-most-frequent-prime](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3314-most-frequent-prime) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
