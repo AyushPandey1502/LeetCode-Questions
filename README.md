@@ -336,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1917-maximum-average-pass-ratio](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2154-minimum-moves-to-convert-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2154-minimum-moves-to-convert-string) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -1321,6 +1322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2107-find-unique-binary-string) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2154-minimum-moves-to-convert-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2154-minimum-moves-to-convert-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2187-vowels-of-all-substrings](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2187-vowels-of-all-substrings) |
@@ -1616,6 +1618,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2300-construct-string-with-repeat-limit) |
@@ -1782,6 +1785,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2107-find-unique-binary-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2107-find-unique-binary-string) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -1790,6 +1794,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0204-count-primes](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1656-count-good-triplets) |
+| [2140-longest-subsequence-repeated-k-times](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2215-finding-3-digit-even-numbers) |
