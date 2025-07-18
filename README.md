@@ -496,6 +496,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2164-two-best-non-overlapping-events](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2164-two-best-non-overlapping-events) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2300-construct-string-with-repeat-limit](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -833,6 +834,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2262-solving-questions-with-brainpower](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2294-minimum-time-to-complete-trips](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2294-minimum-time-to-complete-trips) |
@@ -1733,6 +1735,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2164-two-best-non-overlapping-events](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2164-two-best-non-overlapping-events) |
 | [2187-vowels-of-all-substrings](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2187-vowels-of-all-substrings) |
 | [2262-solving-questions-with-brainpower](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2262-solving-questions-with-brainpower) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2530-minimize-maximum-of-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2530-minimize-maximum-of-array) |
