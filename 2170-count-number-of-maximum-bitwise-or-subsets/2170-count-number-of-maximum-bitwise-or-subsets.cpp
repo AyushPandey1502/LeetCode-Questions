@@ -8,6 +8,7 @@ public:
         return backtrack(nums, maxOR, 0, 0);
     }
 
+private:
     int backtrack(vector<int>& nums, int maxOR, int index, int currentOR) {
         if (index == nums.size()) {
             return currentOR == maxOR ? 1 : 0;
