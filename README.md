@@ -944,6 +944,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3791-fruits-into-baskets-iii) |
 | [3799-unique-3-digit-even-numbers](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3799-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -1151,6 +1152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3427-special-array-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3791-fruits-into-baskets-iii) |
 ## Math
 |  |
 | ------- |
@@ -1983,6 +1985,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0731-my-calendar-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1991,6 +1994,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2434-design-a-number-container-system](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2868-continuous-subarrays) |
 | [3790-fruits-into-baskets-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3791-fruits-into-baskets-iii) |
 ## Doubly-Linked List
 |  |
 | ------- |
