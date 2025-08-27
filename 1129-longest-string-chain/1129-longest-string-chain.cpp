@@ -14,7 +14,8 @@ public:
             dp[word] = 1;
             for(int i = 0; i < word.size(); i++){
                 string pred = word.substr(0, i) + word.substr(i+1);
-                if(dp.count(pred)) dp[word] = max(dp[word], 1+dp[pred]);
+                auto it = dp.find(pred);
+                if (it != dp.end()) dp[word] = max(dp[word], 1 + it->second);
             }
             result = max(result, dp[word]);
         }
