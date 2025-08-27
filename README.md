@@ -434,6 +434,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0780-max-chunks-to-make-sorted](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0948-sort-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1129-longest-string-chain](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1129-longest-string-chain) |
 | [1256-rank-transform-of-an-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -756,6 +757,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1073-number-of-enclaves](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1073-number-of-enclaves) |
+| [1129-longest-string-chain](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1129-longest-string-chain) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1196-filling-bookcase-shelves](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1196-filling-bookcase-shelves) |
@@ -987,6 +989,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0999-regions-cut-by-slashes](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1034-subarrays-with-k-different-integers) |
+| [1129-longest-string-chain](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1129-longest-string-chain) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1160-letter-tile-possibilities) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1207-delete-nodes-and-return-forest) |
@@ -1081,6 +1084,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0768-partition-labels](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0768-partition-labels) |
+| [1129-longest-string-chain](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1129-longest-string-chain) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -1367,6 +1371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1129-longest-string-chain](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1129-longest-string-chain) |
 | [1160-letter-tile-possibilities](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1197-parsing-a-boolean-expression) |
@@ -1749,6 +1754,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0967-minimum-falling-path-sum](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0967-minimum-falling-path-sum) |
+| [1129-longest-string-chain](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1170-shortest-common-supersequence) |
 | [1196-filling-bookcase-shelves](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1240-stone-game-ii) |
