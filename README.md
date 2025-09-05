@@ -1470,6 +1470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2478-longest-nice-subarray](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2478-longest-nice-subarray) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -1895,6 +1896,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2215-finding-3-digit-even-numbers) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3201-distribute-candies-among-children-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3210-count-beautiful-substrings-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3210-count-beautiful-substrings-i) |
 | [3314-most-frequent-prime](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3314-most-frequent-prime) |
@@ -1963,6 +1965,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Memoization
 |  |
 | ------- |
