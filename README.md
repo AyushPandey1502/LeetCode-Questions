@@ -711,6 +711,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0303-range-sum-query-immutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -1117,6 +1118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0300-longest-increasing-subsequence) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -1670,6 +1672,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0948-sort-an-array) |
@@ -1677,6 +1680,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0023-merge-k-sorted-lists) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0948-sort-an-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -1812,6 +1816,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1511-count-number-of-teams](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1511-count-number-of-teams) |
 ## Biconnected Component
 |  |
@@ -1996,6 +2001,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Segment Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0729-my-calendar-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0731-my-calendar-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3790-fruits-into-baskets-ii) |
@@ -2003,6 +2009,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Ordered Set
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0729-my-calendar-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0731-my-calendar-ii) |
 | [2434-design-a-number-container-system](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2434-design-a-number-container-system) |
