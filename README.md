@@ -720,6 +720,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0494-target-sum) |
+| [0503-next-greater-element-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0539-minimum-time-difference](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
@@ -1499,6 +1500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0726-number-of-atoms](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0726-number-of-atoms) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -2014,6 +2016,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
