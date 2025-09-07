@@ -1,9 +1,9 @@
 class Solution {
 public:
     vector<int> singleNumber(vector<int>& nums) {
-        int xorsum = 0;
-        for (auto it : nums) xorsum ^= it;
-        unsigned diffBit = xorsum & -static_cast<unsigned>(xorsum);
+        int XOR = 0;
+        for (auto it : nums) XOR ^= it;
+        unsigned diffBit = XOR & -static_cast<unsigned>(XOR);
         int num1 = 0, num2 = 0;
         for (auto it : nums) {
             if (it & diffBit) num1 ^= it;
