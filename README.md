@@ -488,6 +488,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0480-sliding-window-median](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0480-sliding-window-median) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0692-top-k-frequent-words) |
 | [0744-network-delay-time](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0744-network-delay-time) |
@@ -725,6 +726,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0480-sliding-window-median](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
@@ -980,6 +982,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0432-all-oone-data-structure](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0432-all-oone-data-structure) |
+| [0480-sliding-window-median](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0480-sliding-window-median) |
 | [0560-subarray-sum-equals-k](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0594-longest-harmonious-subsequence) |
@@ -1852,6 +1855,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0424-longest-repeating-character-replacement) |
+| [0480-sliding-window-median](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
