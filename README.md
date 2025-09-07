@@ -709,6 +709,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0283-move-zeroes) |
@@ -1124,6 +1125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -1644,6 +1646,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0174-dungeon-game) |
+| [0240-search-a-2d-matrix-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0787-sliding-puzzle) |
@@ -1689,6 +1692,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
