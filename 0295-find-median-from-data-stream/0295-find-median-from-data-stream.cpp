@@ -6,13 +6,11 @@ public:
     }
     
     void addNum(int num) {
-        if(left.empty() || num <= left.top()) left.push(num);
-        else right.push(num);
+        left.push(num);
+        right.push(left.top());
+        left.pop();
 
-        if(left.size() > right.size()+1){
-            right.push(left.top());
-            left.pop();
-        }else if(right.size() > left.size()){
+        if (right.size() > left.size()) {
             left.push(right.top());
             right.pop();
         }
