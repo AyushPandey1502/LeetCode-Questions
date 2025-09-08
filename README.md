@@ -695,6 +695,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -1536,6 +1537,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -1669,6 +1671,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0174-dungeon-game) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -1783,6 +1786,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -2078,6 +2082,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0780-max-chunks-to-make-sorted) |
