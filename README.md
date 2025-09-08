@@ -1551,6 +1551,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0775-n-ary-tree-preorder-traversal](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0780-max-chunks-to-make-sorted) |
+| [0937-online-stock-span](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1002-maximum-width-ramp) |
@@ -1994,6 +1995,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0731-my-calendar-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0859-design-circular-deque) |
+| [0937-online-stock-span](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0937-online-stock-span) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -2003,6 +2005,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0937-online-stock-span](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0937-online-stock-span) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 ## Quickselect
 |  |
@@ -2086,6 +2089,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0402-remove-k-digits](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0780-max-chunks-to-make-sorted) |
+| [0937-online-stock-span](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0943-sum-of-subarray-minimums) |
 | [1002-maximum-width-ramp](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1002-maximum-width-ramp) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
