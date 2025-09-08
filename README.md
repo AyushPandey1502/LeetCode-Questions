@@ -317,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0134-gas-station](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0179-largest-number) |
+| [0402-remove-k-digits](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0624-maximum-distance-in-arrays](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -1386,6 +1387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0214-shortest-palindrome](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0273-integer-to-english-words) |
+| [0402-remove-k-digits](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0539-minimum-time-difference](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0564-find-the-closest-palindrome) |
@@ -1532,6 +1534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0726-number-of-atoms](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0735-asteroid-collision) |
@@ -2063,6 +2066,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0943-sum-of-subarray-minimums](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0943-sum-of-subarray-minimums) |
