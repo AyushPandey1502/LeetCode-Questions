@@ -681,6 +681,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0051-n-queens) |
@@ -1092,6 +1093,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0151-reverse-words-in-a-string) |
@@ -1531,6 +1533,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -1772,6 +1775,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0063-unique-paths-ii) |
@@ -2070,6 +2074,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0780-max-chunks-to-make-sorted) |
