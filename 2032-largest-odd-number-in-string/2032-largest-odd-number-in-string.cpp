@@ -1,10 +1,17 @@
 class Solution {
 public:
-    string largestOddNumber(string num) {
-        int n = num.size();
-        for(int i = n-1; i >= 0; i--){
-            if(num[i] & 1) return num.substr(0, i+1);
+    string largestOddNumber(string s) {
+        int end = -1;
+        for (int i = s.size() - 1; i >= 0; i--) {
+            if (s[i] & 1) {
+                end = i;
+                break;
+            }
         }
-        return "";
+        if (end == -1) return "";
+        string result = s.substr(0, end + 1);
+        int i = 0;
+        while (i < result.size() && result[i] == '0') i++;
+        return (i == result.size()) ? "0" : result.substr(i);
     }
 };
