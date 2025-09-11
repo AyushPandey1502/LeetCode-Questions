@@ -1,21 +1,21 @@
 class Solution {
 public:
+    bool isVowel(char ch){
+        return (ch == 'a') || (ch == 'e') || (ch == 'i') || (ch == 'o') || (ch == 'u');
+    }
+
     string sortVowels(string s) {
-        vector<char> vowels = {'a','e','i','o','u','A','E','I','O','U'};
-        string answer = "";
-        vector<char> store;
-
-        for(char ch : s){
-            if(find(vowels.begin(), vowels.end(), ch) != vowels.end()) store.push_back(ch);
+        string result;
+        vector<char> vowels;
+        for(auto ch : s){
+            if(isVowel(tolower(ch))) vowels.push_back(ch);
         }
-        sort(store.begin(), store.end());
-
-        int index = 0;
-        for(char ch : s){
-            if(find(vowels.begin(), vowels.end(), ch) != vowels.end()){
-                answer += store[index++];
-            }else answer += ch;
+        sort(vowels.begin(), vowels.end());
+        int j = 0;
+        for(int i = 0; i < s.size(); i++){
+            if(!isVowel(tolower(s[i]))) result += s[i];
+            else result += vowels[j++];
         }
-        return answer;
+        return result;
     }
 };
