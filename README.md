@@ -1261,6 +1261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3314-most-frequent-prime](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3314-most-frequent-prime) |
 | [3321-type-of-triangle](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3336-water-bottles-ii) |
+| [3462-vowels-game-in-a-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3462-vowels-game-in-a-string) |
 | [3548-find-the-count-of-good-integers](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3548-find-the-count-of-good-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -1480,6 +1481,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3451-string-compression-iii) |
+| [3462-vowels-game-in-a-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3462-vowels-game-in-a-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -2032,12 +2034,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1240-stone-game-ii) |
+| [3462-vowels-game-in-a-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3462-vowels-game-in-a-string) |
 ## Brainteaser
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2481-strictly-palindromic-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3462-vowels-game-in-a-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3462-vowels-game-in-a-string) |
 ## Memoization
 |  |
 | ------- |
