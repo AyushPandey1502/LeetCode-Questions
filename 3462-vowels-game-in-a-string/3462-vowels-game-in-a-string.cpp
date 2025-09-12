@@ -1,15 +1,9 @@
 class Solution {
 public:
-    bool isVowel(char c) {
-        c = tolower(c);
-        return c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u';
-    }
-
-    bool doesAliceWin(string word) {
-        for (char letter : word) {
-            if (isVowel(letter)) {
-                return true;
-            }
+    bool doesAliceWin(string s) {
+        string vowel = "aeiou";
+        for (auto it : s) {
+            if (vowel.find(it) != string::npos) return true;
         }
         return false;
     }
