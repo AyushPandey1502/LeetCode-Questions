@@ -784,6 +784,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1207-delete-nodes-and-return-forest](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1207-delete-nodes-and-return-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1240-stone-game-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1240-stone-game-ii) |
+| [1242-matrix-block-sum](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1242-matrix-block-sum) |
 | [1256-rank-transform-of-an-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1284-four-divisors](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1284-four-divisors) |
 | [1293-three-consecutive-odds](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1293-three-consecutive-odds) |
@@ -1359,6 +1360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0966-binary-subarrays-with-sum](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1240-stone-game-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1240-stone-game-ii) |
+| [1242-matrix-block-sum](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1242-matrix-block-sum) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1477-product-of-the-last-k-numbers) |
@@ -1696,6 +1698,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1073-number-of-enclaves](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1073-number-of-enclaves) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1242-matrix-block-sum](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1242-matrix-block-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1559-cherry-pickup-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1559-cherry-pickup-ii) |
