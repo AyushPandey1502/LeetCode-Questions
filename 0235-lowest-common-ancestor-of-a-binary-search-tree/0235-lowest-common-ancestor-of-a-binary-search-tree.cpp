@@ -7,6 +7,6 @@ public:
             else if(node->val > p->val && node->val > q->val) node = node->left;
             else return node;
         }
-        return root;
+        return nullptr;
     }
 };
