@@ -460,6 +460,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2502-sort-the-people) |
+| [2543-most-popular-video-creator](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2543-most-popular-video-creator) |
 | [2554-minimum-total-distance-traveled](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2586-longest-square-streak-in-an-array) |
@@ -518,6 +519,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2543-most-popular-video-creator](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2543-most-popular-video-creator) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -904,6 +906,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2530-minimize-maximum-of-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2530-minimize-maximum-of-array) |
+| [2543-most-popular-video-creator](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2543-most-popular-video-creator) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2551-apply-operations-to-an-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -1071,6 +1074,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2487-optimal-partition-of-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2487-optimal-partition-of-string) |
 | [2502-sort-the-people](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2502-sort-the-people) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2543-most-popular-video-creator](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2543-most-popular-video-creator) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2586-longest-square-streak-in-an-array) |
@@ -1484,6 +1488,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2502-sort-the-people) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2543-most-popular-video-creator](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2543-most-popular-video-creator) |
 | [2580-circular-sentence](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2727-number-of-senior-citizens](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2727-number-of-senior-citizens) |
