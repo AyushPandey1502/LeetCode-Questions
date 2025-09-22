@@ -1,26 +1,31 @@
+struct Info {
+    long long totalViews = 0;
+    int bestViews = -1;
+    string bestId;
+};
+
 class Solution {
 public:
     vector<vector<string>> mostPopularCreator(vector<string>& creators,
                                               vector<string>& ids,
                                               vector<int>& views) {
-        unordered_map<string, pair<int, string>> mp;
-        unordered_map<string, long long> popularity;
+        unordered_map<string, Info> data;
         long long maxViews = 0;
 
         for (int i = 0; i < views.size(); i++) {
-            popularity[creators[i]] += views[i];
-            maxViews = max(maxViews, popularity[creators[i]]);
-            if (!mp.count(creators[i]) || mp[creators[i]].first < views[i] ||
-                (mp[creators[i]].first == views[i] &&
-                 mp[creators[i]].second > ids[i])) {
-                mp[creators[i]] = {views[i], ids[i]};
+            auto& info = data[creators[i]];
+            info.totalViews += views[i];
+            maxViews = max(maxViews, info.totalViews);
+            if (views[i] > info.bestViews ||
+                (views[i] == info.bestViews && ids[i] < info.bestId)) {
+                info.bestViews = views[i];
+                info.bestId = ids[i];
             }
         }
-
         vector<vector<string>> result;
-        for (auto& it : popularity) {
-            if (it.second == maxViews) {
-                result.push_back({it.first, mp[it.first].second});
+        for (auto& [creator, info] : data) {
+            if (info.totalViews == maxViews) {
+                result.push_back({creator, info.bestId});
             }
         }
         return result;
