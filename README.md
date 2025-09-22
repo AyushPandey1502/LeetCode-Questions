@@ -944,6 +944,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3227-find-missing-and-repeated-values](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3291-find-if-array-can-be-sorted](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3314-most-frequent-prime](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3314-most-frequent-prime) |
@@ -1085,6 +1086,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3208-count-beautiful-substrings-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3208-count-beautiful-substrings-ii) |
 | [3210-count-beautiful-substrings-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3210-count-beautiful-substrings-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3314-most-frequent-prime](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3314-most-frequent-prime) |
@@ -1807,6 +1809,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2448-count-number-of-bad-pairs](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2448-count-number-of-bad-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3314-most-frequent-prime](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3314-most-frequent-prime) |
