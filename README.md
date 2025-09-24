@@ -999,6 +999,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0146-lru-cache) |
+| [0166-fraction-to-recurring-decimal](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0264-ugly-number-ii) |
@@ -1227,6 +1228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0070-climbing-stairs) |
+| [0166-fraction-to-recurring-decimal](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0231-power-of-two) |
@@ -1422,6 +1424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0241-different-ways-to-add-parentheses) |
