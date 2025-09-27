@@ -1,41 +1,31 @@
 class Solution {
-public:
-    vector<vector<int>> updateMatrix(vector<vector<int>>& mat) {
-        int n = mat.size();
-        int m = mat[0].size();
+   public:
+    vector<pair<int, int>> dir = {{1, 0}, {-1, 0}, {0, -1}, {0, 1}};
 
-        vector<vector<int>> visited(n, vector<int>(m, 0));
-        vector<vector<int>> dist(n, vector<int>(m, 0));
-        queue<pair<pair<int, int>, int>> q;
-
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                if (mat[i][j] == 0) {
-                    q.push({{i, j}, 0});
+    vector<vector<int>> updateMatrix(vector<vector<int>> grid) {
+        int m = grid.size(), n = grid[0].size();
+        vector<vector<int>> visited(m, vector<int>(n, 0));
+        vector<vector<int>> dist(m, vector<int>(n, 0));
+        queue<vector<int>> q;
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (grid[i][j] == 0) {
                     visited[i][j] = 1;
+                    q.push({i, j, 0});
                 }
             }
         }
 
-        int drow[] = {-1, 1, 0, 0};
-        int dcol[] = {0, 0, 1, -1};
-
         while (!q.empty()) {
-            int row = q.front().first.first;
-            int col = q.front().first.second;
-            int distance = q.front().second;
+            int x = q.front()[0], y = q.front()[1], d = q.front()[2];
             q.pop();
-
-            dist[row][col] = distance;
-
-            for (int i = 0; i < 4; i++) {
-                int nrow = row + drow[i];
-                int ncol = col + dcol[i];
-
-                if (nrow >= 0 && nrow < n && ncol >= 0 && ncol < m &&
-                    !visited[nrow][ncol]) {
-                    visited[nrow][ncol] = 1;
-                    q.push({{nrow, ncol}, distance + 1});
+            for (auto it : dir) {
+                int nx = x + it.first, ny = y + it.second;
+                if (nx >= 0 && nx < m && ny >= 0 && ny < n &&
+                    !visited[nx][ny]) {
+                    visited[nx][ny] = 1;
+                    dist[nx][ny] = d + 1;
+                    q.push({nx, ny, d + 1});
                 }
             }
         }
