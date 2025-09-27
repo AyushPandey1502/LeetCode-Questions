@@ -1,49 +1,36 @@
 class Solution {
 public:
-    int drow[4] = {-1, 1, 0, 0};
-    int dcol[4] = {0, 0, 1, -1};
+    vector<pair<int,int>> dir = {{1,0},{-1,0},{0,1},{0,-1}};
 
-    void dfs(int row, int col, vector<vector<int>>& grid, vector<vector<int>>& visited){
-        int n = grid.size();
-        int m = grid[0].size();
-        visited[row][col] = 1;
-        for(int i = 0; i < 4; i++){
-            int nrow = row + drow[i];
-            int ncol = col + dcol[i];
-            if(nrow >= 0 && nrow < n && ncol >= 0 && ncol < m 
-            && !visited[nrow][ncol] && grid[nrow][ncol] == 1){
-                dfs(nrow, ncol, grid, visited);
-            }
-        }
-    }
-    int numEnclaves(vector<vector<int>>& grid) {
-        int n = grid.size();
-        int m = grid[0].size();
-        vector<vector<int>> visited(n, vector<int>(m, 0));
+    int numEnclaves(vector<vector<int>>& board) {
+        int m = board.size();
+        if(m == 0) return 0;
+        int n = board[0].size();
+        queue<pair<int,int>> q;
 
-        for (int i = 0; i < n; i++) {
-            if (!visited[i][0] && grid[i][0] == 1) {
-                dfs(i, 0, grid, visited);
-            }
-            if (!visited[i][m - 1] && grid[i][m - 1] == 1) {
-                dfs(i, m - 1, grid, visited);
-            }
+        for(int i = 0; i < m; i++) {
+            if(board[i][0] == 1) q.push({i,0});
+            if(board[i][n-1] == 1) q.push({i,n-1});
         }
-        for (int i = 0; i < m; i++) {
-            if (!visited[0][i] && grid[0][i] == 1) {
-                dfs(0, i, grid, visited);
-            }
-            if (!visited[n - 1][i] && grid[n - 1][i] == 1) {
-                dfs(n - 1, i, grid, visited);
-            }
+        for(int j = 0; j < n; j++) {
+            if(board[0][j] == 1) q.push({0,j});
+            if(board[m-1][j] == 1) q.push({m-1,j});
         }
 
+        while(!q.empty()) {
+            auto [x, y] = q.front(); q.pop();
+            if(board[x][y] != 1) continue;
+            board[x][y] = 0;
+            for(auto it : dir) {
+                int nx = x + it.first, ny = y + it.second;
+                if(nx >= 0 && nx < m && ny >= 0 && ny < n && board[nx][ny] == 1)
+                    q.push({nx, ny});
+            }
+        }
         int result = 0;
-        for(int i = 0; i < n; i++){
-            for(int j = 0; j < m; j++){
-                if(!visited[i][j] && grid[i][j] == 1){
-                    result++;
-                }
+        for(int i = 0; i < m; i++) {
+            for(int j = 0; j < n; j++) {
+                if(board[i][j] == 1) result++;
             }
         }
         return result;
