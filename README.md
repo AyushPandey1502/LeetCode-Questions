@@ -763,6 +763,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0780-max-chunks-to-make-sorted](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0787-sliding-puzzle) |
 | [0797-rabbits-in-forest](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0830-largest-triangle-area) |
 | [0859-design-circular-deque](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0859-design-circular-deque) |
 | [0870-magic-squares-in-grid](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0890-lemonade-change) |
@@ -1253,6 +1254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0650-2-keys-keyboard](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0670-maximum-swap) |
 | [0797-rabbits-in-forest](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0830-largest-triangle-area) |
 | [0870-magic-squares-in-grid](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0870-magic-squares-in-grid) |
 | [1240-stone-game-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1240-stone-game-ii) |
 | [1284-four-divisors](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1284-four-divisors) |
@@ -2190,5 +2192,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0830-largest-triangle-area) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
