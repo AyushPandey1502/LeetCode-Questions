@@ -1,50 +1,37 @@
 class Solution {
 public:
-    int drow[4] = {-1, 1, 0, 0};
-    int dcol[4] = {0, 0, 1, -1};
-
-    void dfs(int row, int col, vector<vector<char>>& board,
-             vector<vector<int>>& visited) {
-        visited[row][col] = 1;
-        int n = board.size();
-        int m = board[0].size();
-        for (int i = 0; i < 4; i++) {
-            int nrow = row + drow[i];
-            int ncol = col + dcol[i];
-            if (nrow >= 0 && nrow < n && ncol >= 0 && ncol < m &&
-                !visited[nrow][ncol] && board[nrow][ncol] == 'O') {
-                dfs(nrow, ncol, board, visited);
-            }
-        }
-    }
-
+    vector<pair<int,int>> dir = {{1,0},{-1,0},{0,1},{0,-1}};
+    
     void solve(vector<vector<char>>& board) {
-        int n = board.size();
-        int m = board[0].size();
-        vector<vector<int>> visited(n, vector<int>(m, 0));
+        int m = board.size();
+        if(m == 0) return;
+        int n = board[0].size();
+        queue<pair<int,int>> q;
 
-        for (int i = 0; i < n; i++) {
-            if (!visited[i][0] && board[i][0] == 'O') {
-                dfs(i, 0, board, visited);
-            }
-            if (!visited[i][m - 1] && board[i][m - 1] == 'O') {
-                dfs(i, m - 1, board, visited);
-            }
+        for(int i = 0; i < m; i++) {
+            if(board[i][0] == 'O') q.push({i,0});
+            if(board[i][n-1] == 'O') q.push({i,n-1});
         }
-        for (int i = 0; i < m; i++) {
-            if (!visited[0][i] && board[0][i] == 'O') {
-                dfs(0, i, board, visited);
-            }
-            if (!visited[n - 1][i] && board[n - 1][i] == 'O') {
-                dfs(n - 1, i, board, visited);
-            }
+        for(int j = 0; j < n; j++) {
+            if(board[0][j] == 'O') q.push({0,j});
+            if(board[m-1][j] == 'O') q.push({m-1,j});
         }
 
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                if (board[i][j] == 'O' && !visited[i][j]) {
-                    board[i][j] = 'X';
-                }
+        while(!q.empty()) {
+            auto [x, y] = q.front(); q.pop();
+            if(board[x][y] != 'O') continue;
+            board[x][y] = 'B';
+            for(auto it : dir) {
+                int nx = x + it.first, ny = y + it.second;
+                if(nx >= 0 && nx < m && ny >= 0 && ny < n && board[nx][ny] == 'O')
+                    q.push({nx, ny});
+            }
+        }
+
+        for(int i = 0; i < m; i++) {
+            for(int j = 0; j < n; j++) {
+                if(board[i][j] == 'O') board[i][j] = 'X';
+                else if(board[i][j] == 'B') board[i][j] = 'O';
             }
         }
     }
