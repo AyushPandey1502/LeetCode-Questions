@@ -1,30 +1,28 @@
 class Solution {
 public:
-    int drow[4] = {-1, 1, 0, 0};
-    int dcol[4] = {0, 0, 1, -1};
+    vector<pair<int, int>> dir = {{1, 0}, {-1, 0}, {0, -1}, {0, 1}};
 
-    void dfs(int row, int col, vector<vector<int>>& image,
-             vector<vector<int>>& result, int color, int startColor) {
-        int n = image.size();
-        int m = image[0].size();
-        result[row][col] = color;
-        
-        for (int i = 0; i < 4; i++) {
-            int nrow = row + drow[i];
-            int ncol = col + dcol[i];
-            if (nrow >= 0 && nrow < n && ncol >= 0 && ncol < m &&
-                image[nrow][ncol] == startColor &&
-                result[nrow][ncol] != color) {
-                dfs(nrow, ncol, image, result, color, startColor);
+    vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
+        int m = image.size(), n = image[0].size();
+        int clr = image[sr][sc];
+        if (clr == color) return image;
+
+        queue<pair<int, int>> q;
+        q.push({sr, sc});
+        image[sr][sc] = color;
+
+        while (!q.empty()) {
+            int x = q.front().first, y = q.front().second;
+            q.pop();
+            for (auto it : dir) {
+                int nx = x + it.first, ny = y + it.second;
+                if (nx >= 0 && nx < m && ny >= 0 && ny < n &&
+                    image[nx][ny] == clr) {
+                    image[nx][ny] = color;
+                    q.push({nx, ny});
+                }
             }
         }
-    }
-
-    vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc,                        int color) {
-        int startColor = image[sr][sc];
-
-        vector<vector<int>> result = image;
-        dfs(sr, sc, image, result, color, startColor);
-        return result;
+        return image;
     }
 };
