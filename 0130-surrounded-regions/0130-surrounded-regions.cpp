@@ -19,7 +19,6 @@ public:
 
         while(!q.empty()) {
             auto [x, y] = q.front(); q.pop();
-            if(board[x][y] != 'O') continue;
             board[x][y] = 'B';
             for(auto it : dir) {
                 int nx = x + it.first, ny = y + it.second;
