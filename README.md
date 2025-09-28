@@ -763,6 +763,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0747-min-cost-climbing-stairs](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0747-min-cost-climbing-stairs) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0787-sliding-puzzle) |
+| [0792-binary-search](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0830-largest-triangle-area) |
 | [0859-design-circular-deque](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0859-design-circular-deque) |
@@ -1186,6 +1187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0731-my-calendar-ii) |
+| [0792-binary-search](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1046-max-consecutive-ones-iii) |
