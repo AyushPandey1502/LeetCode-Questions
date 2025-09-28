@@ -3,27 +3,36 @@ public:
     int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
         unordered_set<string> words(wordList.begin(), wordList.end());
         if (words.find(endWord) == words.end()) return 0;
-        queue<pair<string, int>> q;
-        q.push({beginWord, 1});
-        words.erase(beginWord);
 
-        while(!q.empty()){
-            string word = q.front().first;
-            int len = q.front().second;
-            q.pop();
-            for(int i = 0; i < word.size(); i++){
-                char org = word[i];
-                for(char ch = 'a'; ch <= 'z'; ch++){
-                    if(ch == org) continue;
-                    word[i] = ch;
-                    if(word == endWord) return len+1;
-                    if(words.find(word) != words.end()){
-                        q.push({word, len+1});
-                        words.erase(word);
+        unordered_set<string> beginSet{beginWord};
+        unordered_set<string> endSet{endWord};
+        unordered_set<string> visited;
+
+        int length = 1;
+
+        while (!beginSet.empty() && !endSet.empty()) {
+            if (beginSet.size() > endSet.size()) swap(beginSet, endSet);
+            unordered_set<string> next;
+            for (auto word : beginSet) {
+                string temp = word;
+                for (int i = 0; i < temp.size(); i++) {
+                    char org = temp[i];
+                    for (char ch = 'a'; ch <= 'z'; ch++) {
+                        if (ch == org) continue;
+                        temp[i] = ch;
+
+                        if (endSet.find(temp) != endSet.end()) return length + 1;
+
+                        if (words.find(temp) != words.end() && !visited.count(temp)) {
+                            next.insert(temp);
+                            visited.insert(temp);
+                        }
                     }
+                    temp[i] = org;
                 }
-                word[i] = org;
             }
+            beginSet = move(next);
+            length++;
         }
         return 0;
     }
