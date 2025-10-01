@@ -7,7 +7,7 @@ public:
 
         priority_queue<ListNode*, vector<ListNode*>, decltype(cmp)> pq(cmp);
         for(auto it : lists){
-            if(it) pq.push(it);
+            if(it != nullptr) pq.push(it);
         }
         ListNode* head = new ListNode(-1);
         ListNode* tail = head;
