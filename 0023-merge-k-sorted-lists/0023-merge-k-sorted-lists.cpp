@@ -2,7 +2,7 @@ class Solution {
 public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
         auto cmp = [](ListNode* a, ListNode* b){
-            return a->val > b->val;
+            return a->val > b->val; // min-heap
         };
 
         priority_queue<ListNode*, vector<ListNode*>, decltype(cmp)> pq(cmp);
