@@ -1,36 +1,30 @@
 class Solution {
 public:
+    vector<vector<int>> dir = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
+    
     int minimumEffortPath(vector<vector<int>>& heights) {
-        int n = heights.size();
-        int m = heights[0].size();
-        vector<vector<int>> efforts(n, vector<int>(m, INT_MAX));
-        queue<pair<int, pair<int, int>>> q;
-        q.push({0, {0, 0}});
-        efforts[0][0] = 0;
+        int m = heights.size(), n = heights[0].size();
+        vector<vector<int>> dist(m, vector<int>(n, INT_MAX));
 
-        int drow[4] = {0, 0, 1, -1};
-        int dcol[4] = {-1, 1, 0, 0};
+        priority_queue<array<int, 3>, vector<array<int, 3>>, greater<>> pq;
+        pq.push({0, 0, 0});
+        dist[0][0] = 0;
 
-        while (!q.empty()) {
-            int eff = q.front().first;
-            int row = q.front().second.first;
-            int col = q.front().second.second;
-            q.pop();
-
-            for (int i = 0; i < 4; i++) {
-                int nrow = row + drow[i];
-                int ncol = col + dcol[i];
-
-                if (nrow >= 0 && nrow < n && ncol >= 0 && ncol < m) {
-                    int newEff = max(eff, abs(heights[row][col] - heights[nrow][ncol]));
-                    if (newEff < efforts[nrow][ncol]) {
-                        efforts[nrow][ncol] = newEff;
-                        q.push({newEff, {nrow, ncol}});
+        while(!pq.empty()){
+            auto [diff, row, col] = pq.top();
+            pq.pop();
+            if(row == m-1 && col == n-1) return diff;
+            for(auto it : dir){
+                int nrow = row + it[0], ncol = col + it[1];
+                if(nrow >= 0 && nrow < m && ncol >= 0 && ncol < n){
+                    int newEffort = max(diff, abs(heights[nrow][ncol] - heights[row][col]));
+                    if(newEffort < dist[nrow][ncol]){
+                        dist[nrow][ncol] = newEffort;
+                        pq.push({newEffort, nrow, ncol});
                     }
                 }
             }
         }
-
-        return efforts[n-1][m-1];
+        return 0;
     }
 };
