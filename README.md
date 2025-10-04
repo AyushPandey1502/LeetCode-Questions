@@ -505,6 +505,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0692-top-k-frequent-words) |
 | [0744-network-delay-time](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0794-swim-in-rising-water](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0948-sort-an-array) |
@@ -566,6 +567,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-network-delay-time](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0744-network-delay-time) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0794-swim-in-rising-water](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0820-find-eventual-safe-states) |
@@ -626,6 +628,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-network-delay-time](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0744-network-delay-time) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0787-sliding-puzzle](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0820-find-eventual-safe-states) |
@@ -679,6 +682,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0721-accounts-merge) |
+| [0794-swim-in-rising-water](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0999-regions-cut-by-slashes) |
@@ -779,6 +783,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0780-max-chunks-to-make-sorted](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0830-largest-triangle-area) |
 | [0859-design-circular-deque](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0859-design-circular-deque) |
@@ -1208,6 +1213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1046-max-consecutive-ones-iii) |
@@ -1764,6 +1770,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0787-sliding-puzzle) |
+| [0794-swim-in-rising-water](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0794-swim-in-rising-water) |
 | [0870-magic-squares-in-grid](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0921-spiral-matrix-iii) |
 | [0945-snakes-and-ladders](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0945-snakes-and-ladders) |
