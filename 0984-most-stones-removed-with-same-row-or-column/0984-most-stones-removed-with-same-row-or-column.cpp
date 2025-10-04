@@ -1,35 +1,49 @@
+class DisjointSet {
+    vector<int> parent, size;
+
+public:
+    DisjointSet(int n) {
+        parent.resize(n + 1, 0);
+        size.resize(n + 1, 1);
+        iota(parent.begin(), parent.end(), 0);
+    }
+
+    int find(int node) {
+        if (node == parent[node]) return node;
+        return parent[node] = find(parent[node]);
+    }
+
+    void unionBySize(int u, int v) {
+        int pu = find(u);
+        int pv = find(v);
+        if (pu == pv) return;
+        if (size[pu] < size[pv]) swap(pu, pv);
+        parent[pv] = pu;
+        size[pu] += size[pv];
+        return;
+    }
+};
+
 class Solution {
 public:
-    void dfs(int node, vector<vector<int>>& adj, unordered_set<int>& visited) {
-        visited.insert(node);
-        for (int neighbor : adj[node]) {
-            if (visited.find(neighbor) == visited.end()) {
-                dfs(neighbor, adj, visited);
-            }
-        }
-    }
-    
     int removeStones(vector<vector<int>>& stones) {
-        int n = stones.size();
-        vector<vector<int>> adj(n);
-        for (int i = 0; i < n; ++i) {
-            for (int j = i + 1; j < n; ++j) {
-                if (stones[i][0] == stones[j][0] || stones[i][1] == stones[j][1]) {
-                    adj[i].push_back(j);
-                    adj[j].push_back(i);
-                }
-            }
+        int maxRow = 0, maxCol = 0;
+        for(auto it : stones){
+            maxRow = max(maxRow, it[0]);
+            maxCol = max(maxCol, it[1]);
         }
-
-        unordered_set<int> visited;
-        int numComponents = 0;
-        for (int i = 0; i < n; ++i) {
-            if (visited.find(i) == visited.end()) {
-                dfs(i, adj, visited);
-                numComponents++;
-            }
+        DisjointSet ds(maxRow + maxCol + 1);
+        unordered_set<int> nodes;
+        for(auto it : stones){
+            int row = it[0], col = it[1] + maxRow + 1;
+            ds.unionBySize(row, col);
+            nodes.insert(row);
+            nodes.insert(col);
         }
-
-        return n - numComponents;
+        unordered_set<int> roots;
+        for (int node : nodes) {
+            roots.insert(ds.find(node));
+        }
+        return stones.size() - roots.size();
     }
 };
