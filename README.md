@@ -437,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0692-top-k-frequent-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0721-accounts-merge](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0726-number-of-atoms) |
 | [0780-max-chunks-to-make-sorted](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0948-sort-an-array) |
@@ -560,6 +561,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0744-network-delay-time) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -619,6 +621,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0744-network-delay-time) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0764-n-ary-tree-level-order-traversal) |
@@ -675,6 +678,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0130-surrounded-regions](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0999-regions-cut-by-slashes) |
@@ -766,6 +770,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0624-maximum-distance-in-arrays](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0721-accounts-merge](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0721-accounts-merge) |
 | [0729-my-calendar-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0733-flood-fill) |
@@ -1035,6 +1040,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0594-longest-harmonious-subsequence](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0797-rabbits-in-forest) |
@@ -1466,6 +1472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0592-fraction-addition-and-subtraction](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0664-strange-printer) |
 | [0692-top-k-frequent-words](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0692-top-k-frequent-words) |
+| [0721-accounts-merge](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0812-rotate-string) |
