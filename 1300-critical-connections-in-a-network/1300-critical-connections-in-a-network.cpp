@@ -1,38 +1,33 @@
-// TARJAN'S ALGORITHM
-// TIME COMPLEXITY: O(V + 2E) -> DFS
-// SPACE COMPLEXITY: O(V + 2E) + O(3N)
-
 class Solution {
 public:
     vector<vector<int>> bridges;
     int timer = 1;
 
-    void dfs(int node, int parent, vector<vector<int>>& adj, vector<int>& visited, vector<int>& time, vector<int>& lowTm) {
+    void dfs(int node, int parent, vector<int>& visited, vector<int> adj[],
+             vector<int>& time, vector<int>& lwTm) {
+
         visited[node] = 1;
-        time[node] = lowTm[node] = timer++;
+        time[node] = lwTm[node] = timer++;
 
         for (auto it : adj[node]) {
             if (it == parent) continue;
-            if (!visited[it]) {
-                dfs(it, node, adj, visited, time, lowTm);
-                lowTm[node] = min(lowTm[node], lowTm[it]);
-                if (lowTm[it] > time[node]) {
-                    bridges.push_back({node, it});
-                }
-            } else {
-                lowTm[node] = min(lowTm[node], time[it]);
+            if (visited[it]) lwTm[node] = min(lwTm[node], time[it]);
+            else {
+                dfs(it, node, visited, adj, time, lwTm);
+                lwTm[node] = min(lwTm[node], lwTm[it]);
+                if (lwTm[it] > time[node]) bridges.push_back({node, it});
             }
         }
     }
 
-    vector<vector<int>> criticalConnections(int n, vector<vector<int>>& connections) {
-        vector<vector<int>> adj(n);
-        for (auto it : connections) {
+    vector<vector<int>> criticalConnections(int V, vector<vector<int>>& E) {
+        vector<int> adj[V];
+        for (auto &it : E) {
             adj[it[0]].push_back(it[1]);
             adj[it[1]].push_back(it[0]);
         }
-        vector<int> visited(n, 0), time(n, 0), lowTm(n, 0);
-        dfs(0, -1, adj, visited, time, lowTm);
+        vector<int> visited(V, 0), time(V, 0), lwTm(V, 0);
+        dfs(0, -1, visited, adj, time, lwTm);
         return bridges;
     }
 };
