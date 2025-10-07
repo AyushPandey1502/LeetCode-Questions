@@ -332,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1304-longest-happy-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1304-longest-happy-string) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1612-avoid-flood-in-the-city](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -511,6 +512,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0948-sort-an-array) |
 | [1304-longest-happy-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1325-path-with-maximum-probability) |
+| [1612-avoid-flood-in-the-city](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1753-path-with-minimum-effort](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2023-design-movie-rental-system) |
@@ -846,6 +848,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1559-cherry-pickup-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1559-cherry-pickup-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1612-avoid-flood-in-the-city](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -1079,6 +1082,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1500-count-largest-group](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1500-count-largest-group) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1612-avoid-flood-in-the-city](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -1219,6 +1223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1612-avoid-flood-in-the-city](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
