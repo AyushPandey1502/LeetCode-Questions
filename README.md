@@ -1453,6 +1453,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2530-minimize-maximum-of-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2530-minimize-maximum-of-array) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2625-increment-submatrices-by-one](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2625-increment-submatrices-by-one) |
 | [3208-count-beautiful-substrings-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3208-count-beautiful-substrings-ii) |
 | [3210-count-beautiful-substrings-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3210-count-beautiful-substrings-i) |
@@ -1549,6 +1550,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2502-sort-the-people) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2543-most-popular-video-creator](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2543-most-popular-video-creator) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2580-circular-sentence](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2727-number-of-senior-citizens](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2727-number-of-senior-citizens) |
