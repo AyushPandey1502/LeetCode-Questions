@@ -1,10 +1,11 @@
 class Solution {
 public:
     int finalValueAfterOperations(vector<string>& operations) {
-        int X = 0;
-        for (const string& str : operations) {
-            X += (str[1] == '+') ? 1 : -1;
+        int x = 0;
+        for(auto it : operations){
+            if(it[1] == '+') x++;
+            else x--;
         }
-        return X;
+        return x;
     }
 };
