@@ -1332,6 +1332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1642-water-bottles](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1642-water-bottles) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2032-largest-odd-number-in-string) |
