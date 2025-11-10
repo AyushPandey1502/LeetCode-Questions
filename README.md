@@ -381,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Graph
 |  |
 | ------- |
@@ -1048,6 +1049,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3797-design-spreadsheet](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3797-design-spreadsheet) |
 | [3799-unique-3-digit-even-numbers](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3799-unique-3-digit-even-numbers) |
 | [3827-implement-router](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3863-power-grid-maintenance) |
 ## Hash Table
 |  |
@@ -1185,6 +1187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3797-design-spreadsheet](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3797-design-spreadsheet) |
 | [3799-unique-3-digit-even-numbers](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3799-unique-3-digit-even-numbers) |
 | [3827-implement-router](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
@@ -1731,6 +1734,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3001-apply-operations-to-maximize-score](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3447-clear-digits) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Tree
 |  |
 | ------- |
@@ -2297,6 +2301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [3001-apply-operations-to-maximize-score](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3001-apply-operations-to-maximize-score) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Queue
 |  |
 | ------- |
