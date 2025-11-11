@@ -780,6 +780,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0474-ones-and-zeroes](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0474-ones-and-zeroes) |
 | [0480-sliding-window-median](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0494-target-sum) |
@@ -1538,6 +1539,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0273-integer-to-english-words](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0273-integer-to-english-words) |
 | [0402-remove-k-digits](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0424-longest-repeating-character-replacement) |
+| [0474-ones-and-zeroes](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0474-ones-and-zeroes) |
 | [0539-minimum-time-difference](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0567-permutation-in-string) |
@@ -1978,6 +1980,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0435-non-overlapping-intervals) |
+| [0474-ones-and-zeroes](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0650-2-keys-keyboard](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0650-2-keys-keyboard) |
