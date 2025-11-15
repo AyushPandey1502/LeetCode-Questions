@@ -1635,6 +1635,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3447-clear-digits](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3451-string-compression-iii) |
 | [3462-vowels-game-in-a-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3462-vowels-game-in-a-string) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3618-find-the-original-typed-string-ii) |
@@ -2101,6 +2102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3463-alternating-groups-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3463-alternating-groups-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3483-alternating-groups-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -2159,6 +2161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3201-distribute-candies-among-children-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3210-count-beautiful-substrings-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3210-count-beautiful-substrings-i) |
 | [3314-most-frequent-prime](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3314-most-frequent-prime) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3548-find-the-count-of-good-integers](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
