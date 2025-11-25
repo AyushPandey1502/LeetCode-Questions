@@ -1107,6 +1107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0990-verifying-an-alien-dictionary](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0990-verifying-an-alien-dictionary) |
 | [0999-regions-cut-by-slashes](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0999-regions-cut-by-slashes) |
 | [1006-vowel-spellchecker](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1006-vowel-spellchecker) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1129-longest-string-chain](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1129-longest-string-chain) |
@@ -1349,6 +1350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-rabbits-in-forest](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0830-largest-triangle-area) |
 | [0870-magic-squares-in-grid](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0870-magic-squares-in-grid) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1018-largest-perimeter-triangle) |
 | [1240-stone-game-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1240-stone-game-ii) |
 | [1284-four-divisors](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1284-four-divisors) |
