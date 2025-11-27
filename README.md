@@ -1021,6 +1021,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3427-special-array-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3427-special-array-ii) |
 | [3430-count-days-without-meetings](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3430-count-days-without-meetings) |
@@ -1179,6 +1180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3314-most-frequent-prime](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3314-most-frequent-prime) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -1521,6 +1523,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2625-increment-submatrices-by-one](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2625-increment-submatrices-by-one) |
 | [3208-count-beautiful-substrings-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3208-count-beautiful-substrings-ii) |
 | [3210-count-beautiful-substrings-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3210-count-beautiful-substrings-i) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3427-special-array-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3616-make-array-elements-equal-to-zero) |
