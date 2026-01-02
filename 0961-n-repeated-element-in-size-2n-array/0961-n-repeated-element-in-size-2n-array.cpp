@@ -1,11 +1,8 @@
 class Solution {
 public:
     int repeatedNTimes(vector<int>& nums) {
-        int n = nums.size();
-        while (true) {
-            int i = rand() % n;
-            int j = rand() % n;
-            if (i != j && nums[i] == nums[j]) return nums[i];
-        }
+        for (int i = 0; i < nums.size() - 2; ++i)
+            if (nums[i] == nums[i + 1] || nums[i] == nums[i + 2]) return nums[i];
+        return nums.back();
     }
 };
