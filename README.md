@@ -594,6 +594,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0820-find-eventual-safe-states) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0988-flip-equivalent-binary-trees) |
@@ -661,6 +662,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0820-find-eventual-safe-states) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0945-snakes-and-ladders) |
 | [0999-regions-cut-by-slashes](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0999-regions-cut-by-slashes) |
@@ -1116,6 +1118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0726-number-of-atoms](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0797-rabbits-in-forest) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0870-magic-squares-in-grid](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0870-magic-squares-in-grid) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -1822,6 +1825,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-search-in-a-binary-search-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0988-flip-equivalent-binary-trees) |
@@ -1875,6 +1879,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-search-in-a-binary-search-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0988-flip-equivalent-binary-trees) |
