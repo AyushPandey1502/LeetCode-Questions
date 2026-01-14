@@ -1045,6 +1045,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3454-separate-squares-ii) |
 | [3463-alternating-groups-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3463-alternating-groups-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3483-alternating-groups-ii) |
@@ -1341,6 +1342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3427-special-array-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3427-special-array-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3454-separate-squares-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -2351,6 +2353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0729-my-calendar-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0731-my-calendar-ii) |
+| [3454-separate-squares-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3454-separate-squares-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
@@ -2424,4 +2427,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
