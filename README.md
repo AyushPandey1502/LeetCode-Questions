@@ -1018,6 +1018,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2868-continuous-subarrays](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2868-continuous-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3001-apply-operations-to-maximize-score](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -1197,6 +1198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2755-extra-characters-in-a-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2755-extra-characters-in-a-string) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3208-count-beautiful-substrings-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3208-count-beautiful-substrings-ii) |
 | [3210-count-beautiful-substrings-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3210-count-beautiful-substrings-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3227-find-missing-and-repeated-values) |
@@ -2235,6 +2237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2202-sum-of-k-mirror-numbers](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3201-distribute-candies-among-children-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3210-count-beautiful-substrings-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3210-count-beautiful-substrings-i) |
 | [3314-most-frequent-prime](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3314-most-frequent-prime) |
