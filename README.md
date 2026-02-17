@@ -1767,6 +1767,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0268-missing-number) |
+| [0401-binary-watch](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0401-binary-watch) |
 | [0476-number-complement](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0476-number-complement) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -2279,6 +2280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0126-word-ladder-ii) |
 | [0216-combination-sum-iii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0216-combination-sum-iii) |
+| [0401-binary-watch](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
