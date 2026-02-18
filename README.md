@@ -1769,6 +1769,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0401-binary-watch) |
 | [0476-number-complement](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0476-number-complement) |
+| [0693-binary-number-with-alternating-bits](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1435-xor-queries-of-a-subarray) |
