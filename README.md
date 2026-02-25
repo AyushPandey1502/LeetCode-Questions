@@ -461,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1256-rank-transform-of-an-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1333-sort-the-jumbled-numbers](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1333-sort-the-jumbled-numbers) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -878,6 +879,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1333-sort-the-jumbled-numbers](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1333-sort-the-jumbled-numbers) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1390-four-divisors) |
@@ -1781,6 +1783,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -2075,6 +2078,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1034-subarrays-with-k-different-integers](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1364-tuple-with-same-product) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1786-count-the-number-of-consistent-strings) |
