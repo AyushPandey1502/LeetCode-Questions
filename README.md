@@ -335,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1262-greatest-sum-divisible-by-three](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1304-longest-happy-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1304-longest-happy-string) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1612-avoid-flood-in-the-city](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -894,6 +895,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1511-count-number-of-teams) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1559-cherry-pickup-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1559-cherry-pickup-ii) |
@@ -2010,6 +2012,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-cherry-pickup-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1559-cherry-pickup-ii) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
