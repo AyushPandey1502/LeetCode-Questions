@@ -1611,6 +1611,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2618-maximize-the-minimum-powered-city](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2625-increment-submatrices-by-one) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3208-count-beautiful-substrings-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3208-count-beautiful-substrings-ii) |
 | [3210-count-beautiful-substrings-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3210-count-beautiful-substrings-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -2194,6 +2195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
