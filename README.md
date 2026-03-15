@@ -1442,6 +1442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1500-count-largest-group](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1500-count-largest-group) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1622-fancy-sequence](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1622-fancy-sequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1642-water-bottles) |
@@ -2392,6 +2393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1622-fancy-sequence](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1622-fancy-sequence) |
 | [2023-design-movie-rental-system](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2434-design-a-number-container-system) |
@@ -2470,6 +2472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0315-count-of-smaller-numbers-after-self](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0729-my-calendar-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0731-my-calendar-ii) |
+| [1622-fancy-sequence](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1622-fancy-sequence) |
 | [3454-separate-squares-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3721-longest-balanced-subarray-ii) |
