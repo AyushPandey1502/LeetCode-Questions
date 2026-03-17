@@ -339,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1612-avoid-flood-in-the-city](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1917-maximum-average-pass-ratio](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1917-maximum-average-pass-ratio) |
@@ -469,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -916,6 +918,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1694-make-sum-divisible-by-p](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1694-make-sum-divisible-by-p) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1720-crawler-log-folder) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1753-path-with-minimum-effort](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1753-path-with-minimum-effort) |
 | [1755-defuse-the-bomb](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1755-defuse-the-bomb) |
@@ -2033,6 +2036,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1559-cherry-pickup-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1559-cherry-pickup-ii) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1753-path-with-minimum-effort](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1753-path-with-minimum-effort) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1895-largest-magic-square) |
