@@ -1045,6 +1045,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3001-apply-operations-to-maximize-score](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -1625,6 +1626,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2576-minimum-penalty-for-a-shop](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2625-increment-submatrices-by-one) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3208-count-beautiful-substrings-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3208-count-beautiful-substrings-ii) |
@@ -2056,6 +2058,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2662-check-knight-tour-configuration](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2662-check-knight-tour-configuration) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3227-find-missing-and-repeated-values](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3314-most-frequent-prime](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3314-most-frequent-prime) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
