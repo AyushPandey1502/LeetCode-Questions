@@ -1041,6 +1041,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2868-continuous-subarrays](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2868-continuous-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2906-construct-product-matrix](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2906-construct-product-matrix) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -1630,6 +1631,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2576-minimum-penalty-for-a-shop](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2625-increment-submatrices-by-one) |
+| [2906-construct-product-matrix](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
@@ -2064,6 +2066,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2662-check-knight-tour-configuration](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2662-check-knight-tour-configuration) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2906-construct-product-matrix](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3227-find-missing-and-repeated-values](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3227-find-missing-and-repeated-values) |
