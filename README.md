@@ -1091,6 +1091,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -1641,6 +1642,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3427-special-array-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3618-find-the-original-typed-string-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3618-find-the-original-typed-string-ii) |
@@ -2071,6 +2073,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3227-find-missing-and-repeated-values](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3314-most-frequent-prime](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3314-most-frequent-prime) |
+| [3546-equal-sum-grid-partition-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -2376,6 +2379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3210-count-beautiful-substrings-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3210-count-beautiful-substrings-i) |
 | [3314-most-frequent-prime](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3314-most-frequent-prime) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3546-equal-sum-grid-partition-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3713-longest-balanced-substring-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3713-longest-balanced-substring-i) |
