@@ -1569,6 +1569,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2048-build-array-from-permutation) |
+| [2069-walking-robot-simulation-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -2454,6 +2455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1497-design-a-stack-with-increment-operation](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1622-fancy-sequence](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1622-fancy-sequence) |
 | [2023-design-movie-rental-system](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2023-design-movie-rental-system) |
+| [2069-walking-robot-simulation-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2069-walking-robot-simulation-ii) |
 | [2429-design-a-food-rating-system](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3678-design-task-manager) |
