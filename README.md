@@ -1093,6 +1093,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3463-alternating-groups-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3463-alternating-groups-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3483-alternating-groups-ii) |
+| [3488-closest-equal-element-queries](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3488-closest-equal-element-queries) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -1275,6 +1276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3488-closest-equal-element-queries](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3488-closest-equal-element-queries) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -1420,6 +1422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3454-separate-squares-ii) |
+| [3488-closest-equal-element-queries](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3488-closest-equal-element-queries) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
