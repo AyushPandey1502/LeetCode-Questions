@@ -634,6 +634,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1484-linked-list-in-binary-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1484-linked-list-in-binary-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -700,6 +701,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1484-linked-list-in-binary-tree](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1484-linked-list-in-binary-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1753-path-with-minimum-effort](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1753-path-with-minimum-effort) |
@@ -912,6 +914,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1559-cherry-pickup-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1559-cherry-pickup-ii) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1612-avoid-flood-in-the-city](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1612-avoid-flood-in-the-city) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -2089,6 +2092,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1496-lucky-numbers-in-a-matrix](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-cherry-pickup-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1559-cherry-pickup-ii) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -2648,4 +2652,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2976-minimum-cost-to-convert-string-i](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Union-Find
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1559-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
