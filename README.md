@@ -1733,6 +1733,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0726-number-of-atoms](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0726-number-of-atoms) |
 | [0761-special-binary-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0761-special-binary-string) |
 | [0768-partition-labels](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0768-partition-labels) |
+| [0796-rotate-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -2542,6 +2543,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0214-shortest-palindrome) |
+| [0796-rotate-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0812-rotate-string) |
 | [1508-longest-happy-prefix](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1508-longest-happy-prefix) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
