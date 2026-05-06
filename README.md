@@ -939,6 +939,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1861-rotating-the-box](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1861-rotating-the-box) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -1344,6 +1345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1861-rotating-the-box](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1861-rotating-the-box) |
 | [1923-sentence-similarity-iii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1972-rotating-the-box) |
 | [2027-maximum-number-of-removable-characters](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/2027-maximum-number-of-removable-characters) |
@@ -2098,6 +2100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1753-path-with-minimum-effort](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1753-path-with-minimum-effort) |
+| [1861-rotating-the-box](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1895-largest-magic-square) |
