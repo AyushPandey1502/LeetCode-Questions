@@ -795,6 +795,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0135-candy](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0137-single-number-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0179-largest-number) |
@@ -1376,6 +1377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0035-search-insert-position](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/0268-missing-number) |
