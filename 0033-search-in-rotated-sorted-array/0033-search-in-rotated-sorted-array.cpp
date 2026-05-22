@@ -22,7 +22,6 @@ public:
                 }
             }
         }
-        
         return -1;
     }
 };
