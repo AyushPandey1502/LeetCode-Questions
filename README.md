@@ -933,6 +933,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1720-crawler-log-folder) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1753-path-with-minimum-effort](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1753-path-with-minimum-effort) |
 | [1755-defuse-the-bomb](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/AyushPandey1502/LeetCode-Questions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
